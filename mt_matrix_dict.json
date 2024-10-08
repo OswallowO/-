@@ -1,0 +1,8272 @@
+[
+    {
+        "stock1": "6230",
+        "stock2": "2425",
+        "similarity_score": 0.6544815848245271
+    },
+    {
+        "stock1": "3580",
+        "stock2": "5443",
+        "similarity_score": 0.6123655841119449
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2365",
+        "similarity_score": 0.6085268847895079
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8440",
+        "similarity_score": 0.606726140906379
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8440",
+        "similarity_score": 0.6010447343109988
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8234",
+        "similarity_score": 0.5999414245032688
+    },
+    {
+        "stock1": "1597",
+        "stock2": "3580",
+        "similarity_score": 0.5990858539433148
+    },
+    {
+        "stock1": "2425",
+        "stock2": "1597",
+        "similarity_score": 0.5965378482766285
+    },
+    {
+        "stock1": "2609",
+        "stock2": "2605",
+        "similarity_score": 0.5931826040665206
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3663",
+        "similarity_score": 0.588572055649645
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8440",
+        "similarity_score": 0.586876614633097
+    },
+    {
+        "stock1": "6230",
+        "stock2": "5392",
+        "similarity_score": 0.5840692672144442
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2613",
+        "similarity_score": 0.5834390807392323
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2613",
+        "similarity_score": 0.5816562899587532
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2613",
+        "similarity_score": 0.5784078227203164
+    },
+    {
+        "stock1": "8234",
+        "stock2": "8440",
+        "similarity_score": 0.5782134657693132
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2349",
+        "similarity_score": 0.5775772055172169
+    },
+    {
+        "stock1": "1727",
+        "stock2": "1711",
+        "similarity_score": 0.5756834317323499
+    },
+    {
+        "stock1": "2613",
+        "stock2": "2605",
+        "similarity_score": 0.5710833019714863
+    },
+    {
+        "stock1": "1597",
+        "stock2": "5443",
+        "similarity_score": 0.5702909763939907
+    },
+    {
+        "stock1": "5392",
+        "stock2": "8440",
+        "similarity_score": 0.5695666631042595
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6150",
+        "similarity_score": 0.5686021444903763
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3663",
+        "similarity_score": 0.5680574636594216
+    },
+    {
+        "stock1": "2425",
+        "stock2": "5392",
+        "similarity_score": 0.56798296680026
+    },
+    {
+        "stock1": "6188",
+        "stock2": "8234",
+        "similarity_score": 0.5678450929392789
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2609",
+        "similarity_score": 0.5647762247943344
+    },
+    {
+        "stock1": "2609",
+        "stock2": "2613",
+        "similarity_score": 0.5642407200318614
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6188",
+        "similarity_score": 0.563766976154852
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2609",
+        "similarity_score": 0.5592282833540768
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3663",
+        "similarity_score": 0.5590102195194688
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2613",
+        "similarity_score": 0.5567954629867541
+    },
+    {
+        "stock1": "2365",
+        "stock2": "8440",
+        "similarity_score": 0.5554385499114323
+    },
+    {
+        "stock1": "2349",
+        "stock2": "2613",
+        "similarity_score": 0.5542446231566309
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8234",
+        "similarity_score": 0.5538931254743635
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2365",
+        "similarity_score": 0.5535122502307842
+    },
+    {
+        "stock1": "8054",
+        "stock2": "6462",
+        "similarity_score": 0.550626420421048
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8234",
+        "similarity_score": 0.5505916122642633
+    },
+    {
+        "stock1": "2349",
+        "stock2": "8440",
+        "similarity_score": 0.5493170214669436
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2349",
+        "similarity_score": 0.5488688362566834
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8234",
+        "similarity_score": 0.5487955574016669
+    },
+    {
+        "stock1": "2365",
+        "stock2": "3580",
+        "similarity_score": 0.5480800816219955
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8234",
+        "similarity_score": 0.5475773114219282
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2349",
+        "similarity_score": 0.5461690067330351
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3580",
+        "similarity_score": 0.5450430847172314
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2613",
+        "similarity_score": 0.5445609794604162
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2605",
+        "similarity_score": 0.5435641606666738
+    },
+    {
+        "stock1": "6230",
+        "stock2": "1597",
+        "similarity_score": 0.5429076935418591
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2365",
+        "similarity_score": 0.5424467352024402
+    },
+    {
+        "stock1": "6230",
+        "stock2": "1711",
+        "similarity_score": 0.5422832438773177
+    },
+    {
+        "stock1": "2349",
+        "stock2": "2609",
+        "similarity_score": 0.5408653076051494
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3663",
+        "similarity_score": 0.5386800012428817
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2613",
+        "similarity_score": 0.5385560400405935
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6695",
+        "similarity_score": 0.5384168111220934
+    },
+    {
+        "stock1": "6150",
+        "stock2": "1597",
+        "similarity_score": 0.5383640879778107
+    },
+    {
+        "stock1": "3363",
+        "stock2": "6451",
+        "similarity_score": 0.5382239751416135
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2613",
+        "similarity_score": 0.538002156894444
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2349",
+        "similarity_score": 0.5371794986558336
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2613",
+        "similarity_score": 0.5371720656999609
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2615",
+        "similarity_score": 0.5359955582195141
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2609",
+        "similarity_score": 0.5316202715344969
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8234",
+        "similarity_score": 0.5313679762942364
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2399",
+        "similarity_score": 0.5304373143647684
+    },
+    {
+        "stock1": "2349",
+        "stock2": "2605",
+        "similarity_score": 0.5290453247978473
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2605",
+        "similarity_score": 0.5284243370349487
+    },
+    {
+        "stock1": "2425",
+        "stock2": "3580",
+        "similarity_score": 0.5271413817172689
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2605",
+        "similarity_score": 0.5267189330289493
+    },
+    {
+        "stock1": "1597",
+        "stock2": "4979",
+        "similarity_score": 0.5265977058266057
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2605",
+        "similarity_score": 0.5259677189723724
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2609",
+        "similarity_score": 0.5255879577562628
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8440",
+        "similarity_score": 0.5250258050192642
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2613",
+        "similarity_score": 0.5247792099937526
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2605",
+        "similarity_score": 0.5243223041396919
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2425",
+        "similarity_score": 0.5237551979657916
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2605",
+        "similarity_score": 0.523160479388223
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6188",
+        "similarity_score": 0.5226429247447627
+    },
+    {
+        "stock1": "1597",
+        "stock2": "5392",
+        "similarity_score": 0.5223113709142799
+    },
+    {
+        "stock1": "6125",
+        "stock2": "1711",
+        "similarity_score": 0.5209436812432015
+    },
+    {
+        "stock1": "1597",
+        "stock2": "3535",
+        "similarity_score": 0.5205436838649522
+    },
+    {
+        "stock1": "2615",
+        "stock2": "2613",
+        "similarity_score": 0.520152585538709
+    },
+    {
+        "stock1": "2365",
+        "stock2": "8234",
+        "similarity_score": 0.5201053130094535
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2349",
+        "similarity_score": 0.5197011452914783
+    },
+    {
+        "stock1": "1711",
+        "stock2": "5392",
+        "similarity_score": 0.519608146295497
+    },
+    {
+        "stock1": "5392",
+        "stock2": "8234",
+        "similarity_score": 0.5194268884203641
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6188",
+        "similarity_score": 0.5192693429402853
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2615",
+        "similarity_score": 0.517761211976438
+    },
+    {
+        "stock1": "6125",
+        "stock2": "5608",
+        "similarity_score": 0.5175884546094165
+    },
+    {
+        "stock1": "2365",
+        "stock2": "5392",
+        "similarity_score": 0.5175460480444348
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3663",
+        "similarity_score": 0.5166554999870486
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6150",
+        "similarity_score": 0.5156157202932927
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6462",
+        "similarity_score": 0.5155875232837925
+    },
+    {
+        "stock1": "2365",
+        "stock2": "5443",
+        "similarity_score": 0.5153589187226086
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2349",
+        "similarity_score": 0.5148129849215273
+    },
+    {
+        "stock1": "6125",
+        "stock2": "1727",
+        "similarity_score": 0.5141953245213972
+    },
+    {
+        "stock1": "3580",
+        "stock2": "8440",
+        "similarity_score": 0.514051097562977
+    },
+    {
+        "stock1": "2615",
+        "stock2": "5608",
+        "similarity_score": 0.5140039524014889
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3338",
+        "similarity_score": 0.5136559856539897
+    },
+    {
+        "stock1": "2612",
+        "stock2": "2605",
+        "similarity_score": 0.5135863878674909
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2609",
+        "similarity_score": 0.5127049039442197
+    },
+    {
+        "stock1": "2425",
+        "stock2": "3663",
+        "similarity_score": 0.5123950344523804
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3663",
+        "similarity_score": 0.5121744735365032
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3580",
+        "similarity_score": 0.5118978046677254
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2609",
+        "similarity_score": 0.5118913540923743
+    },
+    {
+        "stock1": "6188",
+        "stock2": "8440",
+        "similarity_score": 0.5116764179744602
+    },
+    {
+        "stock1": "2425",
+        "stock2": "5443",
+        "similarity_score": 0.5113919344130692
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2365",
+        "similarity_score": 0.5111389671338322
+    },
+    {
+        "stock1": "3515",
+        "stock2": "8374",
+        "similarity_score": 0.5109911717414591
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2349",
+        "similarity_score": 0.510559220802602
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2615",
+        "similarity_score": 0.5105109730124071
+    },
+    {
+        "stock1": "6695",
+        "stock2": "8054",
+        "similarity_score": 0.510449976198754
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2613",
+        "similarity_score": 0.5086529353099992
+    },
+    {
+        "stock1": "2365",
+        "stock2": "4979",
+        "similarity_score": 0.5083904320526946
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3663",
+        "similarity_score": 0.5083671195845888
+    },
+    {
+        "stock1": "2425",
+        "stock2": "3535",
+        "similarity_score": 0.5082330102449278
+    },
+    {
+        "stock1": "2399",
+        "stock2": "5392",
+        "similarity_score": 0.5072699344275938
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2349",
+        "similarity_score": 0.5064199031559528
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2612",
+        "similarity_score": 0.5052380414545596
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2613",
+        "similarity_score": 0.5048895078883023
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2399",
+        "similarity_score": 0.5047942941810615
+    },
+    {
+        "stock1": "5443",
+        "stock2": "8440",
+        "similarity_score": 0.5044877095381332
+    },
+    {
+        "stock1": "3663",
+        "stock2": "6243",
+        "similarity_score": 0.5037696424649053
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8234",
+        "similarity_score": 0.5029748338547119
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2612",
+        "similarity_score": 0.5019735485636789
+    },
+    {
+        "stock1": "6684",
+        "stock2": "6462",
+        "similarity_score": 0.5018689919595267
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2349",
+        "similarity_score": 0.501625624163941
+    },
+    {
+        "stock1": "6684",
+        "stock2": "8054",
+        "similarity_score": 0.5013809502316253
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2399",
+        "similarity_score": 0.5013545742764091
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3535",
+        "similarity_score": 0.5010156159651531
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6243",
+        "similarity_score": 0.5008015679436182
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2613",
+        "similarity_score": 0.5007739000962755
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8440",
+        "similarity_score": 0.5007080938853335
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2349",
+        "similarity_score": 0.5005994567415558
+    },
+    {
+        "stock1": "4979",
+        "stock2": "3580",
+        "similarity_score": 0.5000087590805898
+    },
+    {
+        "stock1": "3338",
+        "stock2": "1597",
+        "similarity_score": 0.4999583225796633
+    },
+    {
+        "stock1": "2359",
+        "stock2": "8440",
+        "similarity_score": 0.4994544783835088
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3535",
+        "similarity_score": 0.4989393928962747
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3580",
+        "similarity_score": 0.49844052137585665
+    },
+    {
+        "stock1": "2359",
+        "stock2": "8234",
+        "similarity_score": 0.4979432065256709
+    },
+    {
+        "stock1": "6695",
+        "stock2": "6684",
+        "similarity_score": 0.49775527635042516
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8234",
+        "similarity_score": 0.49766304263930927
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2609",
+        "similarity_score": 0.49709839446431275
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8440",
+        "similarity_score": 0.4968420238744183
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3535",
+        "similarity_score": 0.4967697862017023
+    },
+    {
+        "stock1": "2365",
+        "stock2": "3535",
+        "similarity_score": 0.49651679502720647
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2612",
+        "similarity_score": 0.49619628962240436
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2609",
+        "similarity_score": 0.49613849739335497
+    },
+    {
+        "stock1": "6150",
+        "stock2": "5392",
+        "similarity_score": 0.49603812651135654
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2349",
+        "similarity_score": 0.4954478561646068
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2605",
+        "similarity_score": 0.4949130926936041
+    },
+    {
+        "stock1": "8234",
+        "stock2": "5443",
+        "similarity_score": 0.494846146279406
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2349",
+        "similarity_score": 0.49451824477390993
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6188",
+        "similarity_score": 0.4945055992688657
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2613",
+        "similarity_score": 0.4941302633794789
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6188",
+        "similarity_score": 0.49400330940984905
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2609",
+        "similarity_score": 0.4928619485616835
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3663",
+        "similarity_score": 0.4921382473885366
+    },
+    {
+        "stock1": "4979",
+        "stock2": "8104",
+        "similarity_score": 0.4921261683376961
+    },
+    {
+        "stock1": "2613",
+        "stock2": "5608",
+        "similarity_score": 0.49180864066750574
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6215",
+        "similarity_score": 0.49156209388932465
+    },
+    {
+        "stock1": "4979",
+        "stock2": "5443",
+        "similarity_score": 0.4910403068505526
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2615",
+        "similarity_score": 0.49099017408070916
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2359",
+        "similarity_score": 0.49041530393573246
+    },
+    {
+        "stock1": "3663",
+        "stock2": "8440",
+        "similarity_score": 0.49040899532203835
+    },
+    {
+        "stock1": "3535",
+        "stock2": "8440",
+        "similarity_score": 0.4899788908973476
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2349",
+        "similarity_score": 0.48941419812219156
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3535",
+        "similarity_score": 0.4889855817446963
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2613",
+        "similarity_score": 0.4888566008470946
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3025",
+        "similarity_score": 0.48884949838978475
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3663",
+        "similarity_score": 0.48812155542109253
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6188",
+        "similarity_score": 0.4875363689017062
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3535",
+        "similarity_score": 0.48704133240060704
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2605",
+        "similarity_score": 0.48697657523662946
+    },
+    {
+        "stock1": "3535",
+        "stock2": "3663",
+        "similarity_score": 0.4854524445629737
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2609",
+        "similarity_score": 0.48539437217438086
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2609",
+        "similarity_score": 0.48495136740967304
+    },
+    {
+        "stock1": "8104",
+        "stock2": "2612",
+        "similarity_score": 0.4842915053328207
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2612",
+        "similarity_score": 0.48421458018368635
+    },
+    {
+        "stock1": "3163",
+        "stock2": "3450",
+        "similarity_score": 0.4840153156635248
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2609",
+        "similarity_score": 0.4838661161469606
+    },
+    {
+        "stock1": "3580",
+        "stock2": "3663",
+        "similarity_score": 0.4837668335544746
+    },
+    {
+        "stock1": "1597",
+        "stock2": "3663",
+        "similarity_score": 0.483575158771766
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3580",
+        "similarity_score": 0.4835022114748238
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2605",
+        "similarity_score": 0.4834090686606471
+    },
+    {
+        "stock1": "3663",
+        "stock2": "5608",
+        "similarity_score": 0.48338378622305794
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2612",
+        "similarity_score": 0.48331780468110086
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6215",
+        "similarity_score": 0.48320162053432275
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6684",
+        "similarity_score": 0.4827961401753782
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2613",
+        "similarity_score": 0.4827207212983376
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8440",
+        "similarity_score": 0.48253234384740634
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2359",
+        "similarity_score": 0.48251896472723793
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2609",
+        "similarity_score": 0.4819463812204082
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3535",
+        "similarity_score": 0.48130323734389213
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8440",
+        "similarity_score": 0.4811947218386393
+    },
+    {
+        "stock1": "2609",
+        "stock2": "5608",
+        "similarity_score": 0.4804886072669713
+    },
+    {
+        "stock1": "3663",
+        "stock2": "8064",
+        "similarity_score": 0.48043825014175
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8374",
+        "similarity_score": 0.4797273255152307
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2399",
+        "similarity_score": 0.4794845372534168
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6462",
+        "similarity_score": 0.47937625715217086
+    },
+    {
+        "stock1": "6188",
+        "stock2": "5392",
+        "similarity_score": 0.47890116147323747
+    },
+    {
+        "stock1": "6125",
+        "stock2": "1597",
+        "similarity_score": 0.47886070204762526
+    },
+    {
+        "stock1": "3535",
+        "stock2": "3580",
+        "similarity_score": 0.47881608714258284
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3050",
+        "similarity_score": 0.4787052377076272
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6215",
+        "similarity_score": 0.4785378066684768
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6243",
+        "similarity_score": 0.47836856741972833
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2359",
+        "similarity_score": 0.4781077165086669
+    },
+    {
+        "stock1": "6230",
+        "stock2": "5443",
+        "similarity_score": 0.4771508631740261
+    },
+    {
+        "stock1": "6125",
+        "stock2": "4562",
+        "similarity_score": 0.47702040518668565
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6230",
+        "similarity_score": 0.4769358772822626
+    },
+    {
+        "stock1": "2359",
+        "stock2": "3663",
+        "similarity_score": 0.47664300354215455
+    },
+    {
+        "stock1": "6230",
+        "stock2": "1727",
+        "similarity_score": 0.4761131729876242
+    },
+    {
+        "stock1": "1711",
+        "stock2": "4755",
+        "similarity_score": 0.47567070285936475
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3580",
+        "similarity_score": 0.47517158281214855
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6684",
+        "similarity_score": 0.4747178723818037
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2359",
+        "similarity_score": 0.4747128736341581
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3663",
+        "similarity_score": 0.4743373995545076
+    },
+    {
+        "stock1": "6695",
+        "stock2": "3050",
+        "similarity_score": 0.4742699652264887
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6188",
+        "similarity_score": 0.4733626514367902
+    },
+    {
+        "stock1": "3338",
+        "stock2": "1711",
+        "similarity_score": 0.4731725805140788
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2612",
+        "similarity_score": 0.47312993400283865
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8440",
+        "similarity_score": 0.47300290058455635
+    },
+    {
+        "stock1": "2615",
+        "stock2": "2609",
+        "similarity_score": 0.4729360205211751
+    },
+    {
+        "stock1": "2399",
+        "stock2": "1597",
+        "similarity_score": 0.47262082400579375
+    },
+    {
+        "stock1": "2359",
+        "stock2": "3580",
+        "similarity_score": 0.472253554680144
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2349",
+        "similarity_score": 0.47196157865119087
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2609",
+        "similarity_score": 0.4711256890286553
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6243",
+        "similarity_score": 0.47107787559637443
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8234",
+        "similarity_score": 0.47093302447223806
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3663",
+        "similarity_score": 0.4708510604490492
+    },
+    {
+        "stock1": "2359",
+        "stock2": "6188",
+        "similarity_score": 0.47082299513304277
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2612",
+        "similarity_score": 0.4707377274623509
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2425",
+        "similarity_score": 0.4704490631657097
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8374",
+        "similarity_score": 0.47014266183084824
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6188",
+        "similarity_score": 0.46979201110268226
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2605",
+        "similarity_score": 0.46948492106074063
+    },
+    {
+        "stock1": "3338",
+        "stock2": "4562",
+        "similarity_score": 0.46896494717673887
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2465",
+        "similarity_score": 0.46885734703066556
+    },
+    {
+        "stock1": "8071",
+        "stock2": "3663",
+        "similarity_score": 0.4688409694370259
+    },
+    {
+        "stock1": "5392",
+        "stock2": "5443",
+        "similarity_score": 0.4685913555596635
+    },
+    {
+        "stock1": "6150",
+        "stock2": "5443",
+        "similarity_score": 0.46815275099663134
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3073",
+        "similarity_score": 0.4679056718707638
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2605",
+        "similarity_score": 0.46781372772481317
+    },
+    {
+        "stock1": "8071",
+        "stock2": "8234",
+        "similarity_score": 0.46772962196350704
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2609",
+        "similarity_score": 0.4675750959893824
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3580",
+        "similarity_score": 0.46750857669790924
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2612",
+        "similarity_score": 0.46703461943925856
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2613",
+        "similarity_score": 0.46701954171204674
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2613",
+        "similarity_score": 0.46691379926877125
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6215",
+        "similarity_score": 0.4667494264962615
+    },
+    {
+        "stock1": "6215",
+        "stock2": "8234",
+        "similarity_score": 0.4663869571261735
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6243",
+        "similarity_score": 0.46609592404779926
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3050",
+        "similarity_score": 0.4660362276085091
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3535",
+        "similarity_score": 0.4660146631413157
+    },
+    {
+        "stock1": "1727",
+        "stock2": "5392",
+        "similarity_score": 0.4656645306299012
+    },
+    {
+        "stock1": "1711",
+        "stock2": "1597",
+        "similarity_score": 0.46515469407849874
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2609",
+        "similarity_score": 0.46513848186878665
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2605",
+        "similarity_score": 0.4650489888146354
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2349",
+        "similarity_score": 0.46470468581457275
+    },
+    {
+        "stock1": "6695",
+        "stock2": "3073",
+        "similarity_score": 0.46440720848651174
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3580",
+        "similarity_score": 0.4641070247045738
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6806",
+        "similarity_score": 0.46393452531951795
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2425",
+        "similarity_score": 0.46381178969571957
+    },
+    {
+        "stock1": "6188",
+        "stock2": "8071",
+        "similarity_score": 0.4633197200411989
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2349",
+        "similarity_score": 0.4631894904345754
+    },
+    {
+        "stock1": "6188",
+        "stock2": "5443",
+        "similarity_score": 0.4613666562660062
+    },
+    {
+        "stock1": "6215",
+        "stock2": "6243",
+        "similarity_score": 0.4609428790378701
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6695",
+        "similarity_score": 0.460379999761873
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8071",
+        "similarity_score": 0.4601058784241672
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6243",
+        "similarity_score": 0.4600673202801611
+    },
+    {
+        "stock1": "6695",
+        "stock2": "6462",
+        "similarity_score": 0.46001183272558266
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6188",
+        "similarity_score": 0.4595590768620578
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2605",
+        "similarity_score": 0.4595247724549328
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2605",
+        "similarity_score": 0.45926075101961444
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2615",
+        "similarity_score": 0.45868513312440423
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2359",
+        "similarity_score": 0.45840859655401117
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2399",
+        "similarity_score": 0.45816759030218024
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8071",
+        "similarity_score": 0.458033031321488
+    },
+    {
+        "stock1": "2349",
+        "stock2": "2612",
+        "similarity_score": 0.4580280102299648
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6243",
+        "similarity_score": 0.45741604846551853
+    },
+    {
+        "stock1": "1711",
+        "stock2": "4562",
+        "similarity_score": 0.4571165052566064
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8071",
+        "similarity_score": 0.45639417743590394
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8064",
+        "similarity_score": 0.45622390235654187
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6243",
+        "similarity_score": 0.4558890646118221
+    },
+    {
+        "stock1": "3338",
+        "stock2": "5608",
+        "similarity_score": 0.45583423770058273
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3535",
+        "similarity_score": 0.4556333857695867
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2425",
+        "similarity_score": 0.45540961181164596
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2613",
+        "similarity_score": 0.4550588838247387
+    },
+    {
+        "stock1": "8071",
+        "stock2": "3535",
+        "similarity_score": 0.4550493078717433
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6150",
+        "similarity_score": 0.45504369398004924
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6243",
+        "similarity_score": 0.455002918379578
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3580",
+        "similarity_score": 0.45446502022977087
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3073",
+        "similarity_score": 0.45436975620924325
+    },
+    {
+        "stock1": "8234",
+        "stock2": "5608",
+        "similarity_score": 0.4541877865320742
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2349",
+        "similarity_score": 0.45375082568440017
+    },
+    {
+        "stock1": "6125",
+        "stock2": "5392",
+        "similarity_score": 0.453076264384824
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2615",
+        "similarity_score": 0.4528945820783291
+    },
+    {
+        "stock1": "2464",
+        "stock2": "2374",
+        "similarity_score": 0.45230660597888644
+    },
+    {
+        "stock1": "8374",
+        "stock2": "8064",
+        "similarity_score": 0.4521984095847585
+    },
+    {
+        "stock1": "2603",
+        "stock2": "5608",
+        "similarity_score": 0.452154913432965
+    },
+    {
+        "stock1": "6215",
+        "stock2": "8071",
+        "similarity_score": 0.4520314119180596
+    },
+    {
+        "stock1": "4562",
+        "stock2": "1597",
+        "similarity_score": 0.45159025310152157
+    },
+    {
+        "stock1": "2609",
+        "stock2": "2612",
+        "similarity_score": 0.45157107104650035
+    },
+    {
+        "stock1": "8374",
+        "stock2": "8028",
+        "similarity_score": 0.4513835179279174
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2609",
+        "similarity_score": 0.4513425848821607
+    },
+    {
+        "stock1": "1727",
+        "stock2": "4755",
+        "similarity_score": 0.4510425928027688
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2605",
+        "similarity_score": 0.45071643360475383
+    },
+    {
+        "stock1": "6243",
+        "stock2": "8440",
+        "similarity_score": 0.4505994764011106
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2613",
+        "similarity_score": 0.4503209932088767
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3535",
+        "similarity_score": 0.45027825253721987
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3535",
+        "similarity_score": 0.4502093006415924
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8064",
+        "similarity_score": 0.4500955909454142
+    },
+    {
+        "stock1": "1711",
+        "stock2": "5608",
+        "similarity_score": 0.44987422179301373
+    },
+    {
+        "stock1": "4979",
+        "stock2": "8440",
+        "similarity_score": 0.4498428440136605
+    },
+    {
+        "stock1": "2365",
+        "stock2": "3663",
+        "similarity_score": 0.4498353236649766
+    },
+    {
+        "stock1": "2349",
+        "stock2": "5608",
+        "similarity_score": 0.4496592325376341
+    },
+    {
+        "stock1": "3338",
+        "stock2": "5392",
+        "similarity_score": 0.4494791496592807
+    },
+    {
+        "stock1": "3515",
+        "stock2": "8054",
+        "similarity_score": 0.4494643914624259
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8071",
+        "similarity_score": 0.44920283789464505
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2349",
+        "similarity_score": 0.44900370078044294
+    },
+    {
+        "stock1": "3017",
+        "stock2": "4755",
+        "similarity_score": 0.4489694293479734
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8234",
+        "similarity_score": 0.448532652018499
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2365",
+        "similarity_score": 0.44825632083339007
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8064",
+        "similarity_score": 0.44716577407827196
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2365",
+        "similarity_score": 0.4470957376125583
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2613",
+        "similarity_score": 0.4470430003783848
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8071",
+        "similarity_score": 0.4469373580438397
+    },
+    {
+        "stock1": "2615",
+        "stock2": "2605",
+        "similarity_score": 0.4468850917689617
+    },
+    {
+        "stock1": "8064",
+        "stock2": "5608",
+        "similarity_score": 0.44682762092721934
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2615",
+        "similarity_score": 0.44656196687486294
+    },
+    {
+        "stock1": "5608",
+        "stock2": "2605",
+        "similarity_score": 0.44654212180458025
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6230",
+        "similarity_score": 0.4465160361142189
+    },
+    {
+        "stock1": "2425",
+        "stock2": "4562",
+        "similarity_score": 0.4464921336977111
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8071",
+        "similarity_score": 0.4464865324023413
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2615",
+        "similarity_score": 0.4462154444284479
+    },
+    {
+        "stock1": "3338",
+        "stock2": "5443",
+        "similarity_score": 0.4459819820668866
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2605",
+        "similarity_score": 0.4458657958142277
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2376",
+        "similarity_score": 0.4458280402553451
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2603",
+        "similarity_score": 0.44556120640301045
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8104",
+        "similarity_score": 0.4453962584836145
+    },
+    {
+        "stock1": "2359",
+        "stock2": "5443",
+        "similarity_score": 0.44516528479701234
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2365",
+        "similarity_score": 0.44501811859589874
+    },
+    {
+        "stock1": "2365",
+        "stock2": "8071",
+        "similarity_score": 0.44491131575991777
+    },
+    {
+        "stock1": "6215",
+        "stock2": "8064",
+        "similarity_score": 0.4448821201013774
+    },
+    {
+        "stock1": "8071",
+        "stock2": "5392",
+        "similarity_score": 0.4446686682502251
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6243",
+        "similarity_score": 0.4446139076035081
+    },
+    {
+        "stock1": "2376",
+        "stock2": "8054",
+        "similarity_score": 0.4444142425546383
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2365",
+        "similarity_score": 0.4439281417449891
+    },
+    {
+        "stock1": "6215",
+        "stock2": "6188",
+        "similarity_score": 0.44386049857747845
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6215",
+        "similarity_score": 0.4436303176499718
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8071",
+        "similarity_score": 0.44358051607547105
+    },
+    {
+        "stock1": "2615",
+        "stock2": "2603",
+        "similarity_score": 0.44332360825404155
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2613",
+        "similarity_score": 0.44303884814364736
+    },
+    {
+        "stock1": "8028",
+        "stock2": "6684",
+        "similarity_score": 0.4427476050773371
+    },
+    {
+        "stock1": "8064",
+        "stock2": "6243",
+        "similarity_score": 0.44234044667374545
+    },
+    {
+        "stock1": "3663",
+        "stock2": "5443",
+        "similarity_score": 0.44230275343048914
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2612",
+        "similarity_score": 0.4422822259633431
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8071",
+        "similarity_score": 0.4421883016609389
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6188",
+        "similarity_score": 0.44180715153201544
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6215",
+        "similarity_score": 0.441462898034475
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6243",
+        "similarity_score": 0.44140440333384906
+    },
+    {
+        "stock1": "3535",
+        "stock2": "5443",
+        "similarity_score": 0.44116652175715665
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2365",
+        "similarity_score": 0.44075562648179656
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2615",
+        "similarity_score": 0.44046953494227853
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3580",
+        "similarity_score": 0.44036250903388774
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6215",
+        "similarity_score": 0.4400731972680571
+    },
+    {
+        "stock1": "6188",
+        "stock2": "6243",
+        "similarity_score": 0.4392881224521958
+    },
+    {
+        "stock1": "6150",
+        "stock2": "4979",
+        "similarity_score": 0.4391105397716342
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2605",
+        "similarity_score": 0.43901648427125894
+    },
+    {
+        "stock1": "3663",
+        "stock2": "3050",
+        "similarity_score": 0.4387724523648213
+    },
+    {
+        "stock1": "3580",
+        "stock2": "5608",
+        "similarity_score": 0.4387686015080762
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3073",
+        "similarity_score": 0.43845757470394975
+    },
+    {
+        "stock1": "2399",
+        "stock2": "4562",
+        "similarity_score": 0.43816433082958306
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6806",
+        "similarity_score": 0.4377704281611256
+    },
+    {
+        "stock1": "8071",
+        "stock2": "8440",
+        "similarity_score": 0.4377249436979944
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2609",
+        "similarity_score": 0.43766129057204894
+    },
+    {
+        "stock1": "6243",
+        "stock2": "3073",
+        "similarity_score": 0.4376239358815767
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2399",
+        "similarity_score": 0.4373952061944681
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2376",
+        "similarity_score": 0.43732078831302773
+    },
+    {
+        "stock1": "8234",
+        "stock2": "4979",
+        "similarity_score": 0.4372991560557919
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3050",
+        "similarity_score": 0.43661790336658424
+    },
+    {
+        "stock1": "6243",
+        "stock2": "3050",
+        "similarity_score": 0.4365880512255265
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2349",
+        "similarity_score": 0.43650603359602735
+    },
+    {
+        "stock1": "5443",
+        "stock2": "8104",
+        "similarity_score": 0.43641408430645984
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8071",
+        "similarity_score": 0.43641385965011925
+    },
+    {
+        "stock1": "6695",
+        "stock2": "6243",
+        "similarity_score": 0.43594686075949485
+    },
+    {
+        "stock1": "6188",
+        "stock2": "5608",
+        "similarity_score": 0.43548000563526307
+    },
+    {
+        "stock1": "3338",
+        "stock2": "1727",
+        "similarity_score": 0.4351908946313633
+    },
+    {
+        "stock1": "6684",
+        "stock2": "3050",
+        "similarity_score": 0.43518247206860494
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3580",
+        "similarity_score": 0.4350691529821907
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6462",
+        "similarity_score": 0.4350443359412319
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2359",
+        "similarity_score": 0.4346953226402082
+    },
+    {
+        "stock1": "6188",
+        "stock2": "4979",
+        "similarity_score": 0.43462541098894447
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3050",
+        "similarity_score": 0.43433230822530766
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3663",
+        "similarity_score": 0.4342395445641051
+    },
+    {
+        "stock1": "2349",
+        "stock2": "2615",
+        "similarity_score": 0.43417210976533865
+    },
+    {
+        "stock1": "2425",
+        "stock2": "4979",
+        "similarity_score": 0.43406524025912857
+    },
+    {
+        "stock1": "3324",
+        "stock2": "3363",
+        "similarity_score": 0.43406158325838373
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6695",
+        "similarity_score": 0.4338973893575806
+    },
+    {
+        "stock1": "2359",
+        "stock2": "5392",
+        "similarity_score": 0.4338305905058574
+    },
+    {
+        "stock1": "2374",
+        "stock2": "3363",
+        "similarity_score": 0.433589124720027
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6188",
+        "similarity_score": 0.4333745555495089
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2365",
+        "similarity_score": 0.43268984373125063
+    },
+    {
+        "stock1": "3535",
+        "stock2": "6243",
+        "similarity_score": 0.43263954816433303
+    },
+    {
+        "stock1": "6125",
+        "stock2": "5443",
+        "similarity_score": 0.43253701285556556
+    },
+    {
+        "stock1": "8234",
+        "stock2": "8064",
+        "similarity_score": 0.4319762730622683
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6462",
+        "similarity_score": 0.4318958227167707
+    },
+    {
+        "stock1": "4562",
+        "stock2": "5392",
+        "similarity_score": 0.431617087829592
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6243",
+        "similarity_score": 0.4314959241497288
+    },
+    {
+        "stock1": "6215",
+        "stock2": "5608",
+        "similarity_score": 0.4314239324128862
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6243",
+        "similarity_score": 0.431342459887474
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3535",
+        "similarity_score": 0.431102971237256
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8440",
+        "similarity_score": 0.4309898773431157
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3515",
+        "similarity_score": 0.43077955251215044
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2603",
+        "similarity_score": 0.4306718620324165
+    },
+    {
+        "stock1": "2637",
+        "stock2": "2606",
+        "similarity_score": 0.43059975971662945
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2605",
+        "similarity_score": 0.4305600927327482
+    },
+    {
+        "stock1": "2374",
+        "stock2": "6451",
+        "similarity_score": 0.4304179566629221
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6243",
+        "similarity_score": 0.4299573321463159
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2615",
+        "similarity_score": 0.4297717988849545
+    },
+    {
+        "stock1": "2365",
+        "stock2": "8104",
+        "similarity_score": 0.4290439186436784
+    },
+    {
+        "stock1": "6188",
+        "stock2": "8064",
+        "similarity_score": 0.428594686763018
+    },
+    {
+        "stock1": "8054",
+        "stock2": "3050",
+        "similarity_score": 0.42821467507611444
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2349",
+        "similarity_score": 0.42817743288612886
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3535",
+        "similarity_score": 0.42811510943253966
+    },
+    {
+        "stock1": "4979",
+        "stock2": "3535",
+        "similarity_score": 0.4280184237548115
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2615",
+        "similarity_score": 0.42787792479822184
+    },
+    {
+        "stock1": "6215",
+        "stock2": "8028",
+        "similarity_score": 0.4277925328774373
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6188",
+        "similarity_score": 0.4277688987581651
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8064",
+        "similarity_score": 0.4277592198174142
+    },
+    {
+        "stock1": "6230",
+        "stock2": "4562",
+        "similarity_score": 0.4275251735896352
+    },
+    {
+        "stock1": "3515",
+        "stock2": "8028",
+        "similarity_score": 0.42751320291500594
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2399",
+        "similarity_score": 0.4273889366766496
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2615",
+        "similarity_score": 0.4270088054781815
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2613",
+        "similarity_score": 0.42700408855413857
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6215",
+        "similarity_score": 0.42690128355857454
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2613",
+        "similarity_score": 0.42636735481911137
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2609",
+        "similarity_score": 0.42611221613345296
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2615",
+        "similarity_score": 0.42599443110446544
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2615",
+        "similarity_score": 0.42566703585816335
+    },
+    {
+        "stock1": "2613",
+        "stock2": "2612",
+        "similarity_score": 0.4256136883933871
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6806",
+        "similarity_score": 0.42548469172573666
+    },
+    {
+        "stock1": "1727",
+        "stock2": "5608",
+        "similarity_score": 0.42544554996860623
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6684",
+        "similarity_score": 0.42492267682420903
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6243",
+        "similarity_score": 0.4249217513938375
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8071",
+        "similarity_score": 0.42476819388612896
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8374",
+        "similarity_score": 0.42424647766656576
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6462",
+        "similarity_score": 0.4239122922402449
+    },
+    {
+        "stock1": "5443",
+        "stock2": "5608",
+        "similarity_score": 0.4238859989227854
+    },
+    {
+        "stock1": "3324",
+        "stock2": "3515",
+        "similarity_score": 0.42337450727752507
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6451",
+        "similarity_score": 0.42319859029081613
+    },
+    {
+        "stock1": "8374",
+        "stock2": "8234",
+        "similarity_score": 0.4229502647334323
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2359",
+        "similarity_score": 0.42283048635274917
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2613",
+        "similarity_score": 0.42282641929651427
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6684",
+        "similarity_score": 0.42262098550896493
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2609",
+        "similarity_score": 0.42256375025419457
+    },
+    {
+        "stock1": "8064",
+        "stock2": "3073",
+        "similarity_score": 0.42254213992126527
+    },
+    {
+        "stock1": "3663",
+        "stock2": "3073",
+        "similarity_score": 0.4224425320241144
+    },
+    {
+        "stock1": "2399",
+        "stock2": "5443",
+        "similarity_score": 0.4224032325128018
+    },
+    {
+        "stock1": "6230",
+        "stock2": "4755",
+        "similarity_score": 0.42229963628126804
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2377",
+        "similarity_score": 0.4222883918984354
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2359",
+        "similarity_score": 0.4222634309509065
+    },
+    {
+        "stock1": "3515",
+        "stock2": "4562",
+        "similarity_score": 0.4222132818891332
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2603",
+        "similarity_score": 0.42202613581860254
+    },
+    {
+        "stock1": "2359",
+        "stock2": "5608",
+        "similarity_score": 0.42131068819121387
+    },
+    {
+        "stock1": "3025",
+        "stock2": "8028",
+        "similarity_score": 0.4212537219557351
+    },
+    {
+        "stock1": "3580",
+        "stock2": "8064",
+        "similarity_score": 0.421209490350047
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3324",
+        "similarity_score": 0.4208682012422138
+    },
+    {
+        "stock1": "1727",
+        "stock2": "1597",
+        "similarity_score": 0.4207988282589209
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3515",
+        "similarity_score": 0.4205622844302881
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6695",
+        "similarity_score": 0.42048601813229913
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6462",
+        "similarity_score": 0.4203878131610125
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3663",
+        "similarity_score": 0.42024469702698314
+    },
+    {
+        "stock1": "3535",
+        "stock2": "8064",
+        "similarity_score": 0.4200618551496896
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2467",
+        "similarity_score": 0.41917571399840137
+    },
+    {
+        "stock1": "8071",
+        "stock2": "3580",
+        "similarity_score": 0.4189429123024622
+    },
+    {
+        "stock1": "6215",
+        "stock2": "6695",
+        "similarity_score": 0.41894160047172346
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8104",
+        "similarity_score": 0.41797858261804566
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2612",
+        "similarity_score": 0.4179234941137792
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3515",
+        "similarity_score": 0.41775694056407464
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6150",
+        "similarity_score": 0.41760362269773227
+    },
+    {
+        "stock1": "3515",
+        "stock2": "8071",
+        "similarity_score": 0.41751499796434677
+    },
+    {
+        "stock1": "4562",
+        "stock2": "5608",
+        "similarity_score": 0.41727095032044625
+    },
+    {
+        "stock1": "1711",
+        "stock2": "5443",
+        "similarity_score": 0.4170807291512332
+    },
+    {
+        "stock1": "6215",
+        "stock2": "8440",
+        "similarity_score": 0.4170473894484474
+    },
+    {
+        "stock1": "2464",
+        "stock2": "3363",
+        "similarity_score": 0.4169737306566054
+    },
+    {
+        "stock1": "6684",
+        "stock2": "3073",
+        "similarity_score": 0.416880927576909
+    },
+    {
+        "stock1": "1597",
+        "stock2": "5608",
+        "similarity_score": 0.4166728411574091
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3073",
+        "similarity_score": 0.41658562943456084
+    },
+    {
+        "stock1": "8064",
+        "stock2": "5443",
+        "similarity_score": 0.4165778339021093
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2615",
+        "similarity_score": 0.4163858055996216
+    },
+    {
+        "stock1": "2359",
+        "stock2": "8071",
+        "similarity_score": 0.4158247565162975
+    },
+    {
+        "stock1": "4755",
+        "stock2": "5386",
+        "similarity_score": 0.41568008134797213
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2359",
+        "similarity_score": 0.41566429960963747
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2615",
+        "similarity_score": 0.4156211595055076
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6695",
+        "similarity_score": 0.415328233729058
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6695",
+        "similarity_score": 0.4153057941016393
+    },
+    {
+        "stock1": "2359",
+        "stock2": "3535",
+        "similarity_score": 0.4152867816220361
+    },
+    {
+        "stock1": "8028",
+        "stock2": "8054",
+        "similarity_score": 0.4152858111780141
+    },
+    {
+        "stock1": "8028",
+        "stock2": "3050",
+        "similarity_score": 0.41527162920312444
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2603",
+        "similarity_score": 0.4152237846441767
+    },
+    {
+        "stock1": "8104",
+        "stock2": "2605",
+        "similarity_score": 0.4150406122061373
+    },
+    {
+        "stock1": "6243",
+        "stock2": "5608",
+        "similarity_score": 0.4147518804795265
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3050",
+        "similarity_score": 0.41392372286738316
+    },
+    {
+        "stock1": "1727",
+        "stock2": "4562",
+        "similarity_score": 0.4137133825939367
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2615",
+        "similarity_score": 0.41356660153289765
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6451",
+        "similarity_score": 0.41266883050802616
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2612",
+        "similarity_score": 0.41261306988173635
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2605",
+        "similarity_score": 0.4126130283259663
+    },
+    {
+        "stock1": "6530",
+        "stock2": "6869",
+        "similarity_score": 0.4125582039393398
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6695",
+        "similarity_score": 0.4124794499100824
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6150",
+        "similarity_score": 0.41228233732814173
+    },
+    {
+        "stock1": "6684",
+        "stock2": "6806",
+        "similarity_score": 0.4117961637089523
+    },
+    {
+        "stock1": "2359",
+        "stock2": "6243",
+        "similarity_score": 0.4115484172983872
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6451",
+        "similarity_score": 0.41145197342253104
+    },
+    {
+        "stock1": "8374",
+        "stock2": "8054",
+        "similarity_score": 0.41084407248482285
+    },
+    {
+        "stock1": "3515",
+        "stock2": "8064",
+        "similarity_score": 0.4108333342425918
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3663",
+        "similarity_score": 0.41067628978207726
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2609",
+        "similarity_score": 0.41047166842999555
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3050",
+        "similarity_score": 0.409714943632399
+    },
+    {
+        "stock1": "3073",
+        "stock2": "3050",
+        "similarity_score": 0.40949540485765396
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6215",
+        "similarity_score": 0.4094095873754041
+    },
+    {
+        "stock1": "6451",
+        "stock2": "6462",
+        "similarity_score": 0.409314419207761
+    },
+    {
+        "stock1": "8064",
+        "stock2": "3050",
+        "similarity_score": 0.409097345089366
+    },
+    {
+        "stock1": "2359",
+        "stock2": "4979",
+        "similarity_score": 0.40905208755884026
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2349",
+        "similarity_score": 0.4090159179728998
+    },
+    {
+        "stock1": "8440",
+        "stock2": "5608",
+        "similarity_score": 0.4090121309710552
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2613",
+        "similarity_score": 0.4089336348315643
+    },
+    {
+        "stock1": "2359",
+        "stock2": "6215",
+        "similarity_score": 0.4089293006151999
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3663",
+        "similarity_score": 0.408837887141633
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2612",
+        "similarity_score": 0.4088232269458774
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2603",
+        "similarity_score": 0.4087186643965018
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2613",
+        "similarity_score": 0.4085169828624843
+    },
+    {
+        "stock1": "5392",
+        "stock2": "4979",
+        "similarity_score": 0.4082061553257345
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2349",
+        "similarity_score": 0.40800048135176337
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2612",
+        "similarity_score": 0.40768321587374057
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2464",
+        "similarity_score": 0.4074788515916393
+    },
+    {
+        "stock1": "2615",
+        "stock2": "2637",
+        "similarity_score": 0.40742576980279915
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3231",
+        "similarity_score": 0.40739724851717707
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6806",
+        "similarity_score": 0.4072251970363239
+    },
+    {
+        "stock1": "3580",
+        "stock2": "8104",
+        "similarity_score": 0.40710185018064504
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2615",
+        "similarity_score": 0.4069427281056052
+    },
+    {
+        "stock1": "3073",
+        "stock2": "6806",
+        "similarity_score": 0.4068698880900415
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2615",
+        "similarity_score": 0.40669191801268584
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2467",
+        "similarity_score": 0.4066553625268006
+    },
+    {
+        "stock1": "3663",
+        "stock2": "6695",
+        "similarity_score": 0.4063856239543636
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6451",
+        "similarity_score": 0.40637750355045715
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3073",
+        "similarity_score": 0.40637711701356366
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3073",
+        "similarity_score": 0.4062476209647485
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3050",
+        "similarity_score": 0.40604720401854494
+    },
+    {
+        "stock1": "8054",
+        "stock2": "3073",
+        "similarity_score": 0.4059621977464447
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2612",
+        "similarity_score": 0.4058501716053713
+    },
+    {
+        "stock1": "4755",
+        "stock2": "5392",
+        "similarity_score": 0.4052432343258211
+    },
+    {
+        "stock1": "8028",
+        "stock2": "6695",
+        "similarity_score": 0.40469145520650057
+    },
+    {
+        "stock1": "6230",
+        "stock2": "5608",
+        "similarity_score": 0.4045466393845034
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2365",
+        "similarity_score": 0.4045396184362197
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2609",
+        "similarity_score": 0.4044808784214008
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6695",
+        "similarity_score": 0.4041903964734371
+    },
+    {
+        "stock1": "8064",
+        "stock2": "8028",
+        "similarity_score": 0.4041749526234654
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2359",
+        "similarity_score": 0.40394522512698244
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2615",
+        "similarity_score": 0.40372185208329464
+    },
+    {
+        "stock1": "6230",
+        "stock2": "4979",
+        "similarity_score": 0.4034396670526782
+    },
+    {
+        "stock1": "2465",
+        "stock2": "8028",
+        "similarity_score": 0.4034354824608099
+    },
+    {
+        "stock1": "8374",
+        "stock2": "8071",
+        "similarity_score": 0.40336468765196376
+    },
+    {
+        "stock1": "6215",
+        "stock2": "5392",
+        "similarity_score": 0.40305542447116
+    },
+    {
+        "stock1": "6695",
+        "stock2": "6806",
+        "similarity_score": 0.40300776570868907
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6684",
+        "similarity_score": 0.40280465758453593
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2349",
+        "similarity_score": 0.4026580717783957
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2609",
+        "similarity_score": 0.4024559253052072
+    },
+    {
+        "stock1": "4755",
+        "stock2": "8071",
+        "similarity_score": 0.4023653218746215
+    },
+    {
+        "stock1": "4562",
+        "stock2": "5443",
+        "similarity_score": 0.40228904748550787
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8064",
+        "similarity_score": 0.40190779406942334
+    },
+    {
+        "stock1": "6462",
+        "stock2": "3073",
+        "similarity_score": 0.4017867871816241
+    },
+    {
+        "stock1": "3050",
+        "stock2": "6806",
+        "similarity_score": 0.40150364488341633
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3580",
+        "similarity_score": 0.4014215185925483
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3535",
+        "similarity_score": 0.4012285620137843
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6243",
+        "similarity_score": 0.40121517577724786
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3515",
+        "similarity_score": 0.40118839300312514
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2467",
+        "similarity_score": 0.4011724901969982
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8064",
+        "similarity_score": 0.40114309185622327
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2615",
+        "similarity_score": 0.40113634133179177
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2615",
+        "similarity_score": 0.4008657242714088
+    },
+    {
+        "stock1": "6215",
+        "stock2": "6684",
+        "similarity_score": 0.40070731474279014
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8374",
+        "similarity_score": 0.4004854577769714
+    },
+    {
+        "stock1": "2399",
+        "stock2": "5608",
+        "similarity_score": 0.40032500404188964
+    },
+    {
+        "stock1": "2376",
+        "stock2": "3073",
+        "similarity_score": 0.4000976568423142
+    },
+    {
+        "stock1": "2425",
+        "stock2": "5608",
+        "similarity_score": 0.40006753423318225
+    },
+    {
+        "stock1": "8071",
+        "stock2": "8064",
+        "similarity_score": 0.3999611488901555
+    },
+    {
+        "stock1": "4755",
+        "stock2": "4562",
+        "similarity_score": 0.3999169075301623
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2615",
+        "similarity_score": 0.3998078645242305
+    },
+    {
+        "stock1": "8071",
+        "stock2": "5608",
+        "similarity_score": 0.3997486561424245
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8104",
+        "similarity_score": 0.39956896929250635
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8064",
+        "similarity_score": 0.3993379535220905
+    },
+    {
+        "stock1": "2603",
+        "stock2": "2613",
+        "similarity_score": 0.3993119261195662
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6215",
+        "similarity_score": 0.3989602541584282
+    },
+    {
+        "stock1": "2603",
+        "stock2": "2609",
+        "similarity_score": 0.39819171113006324
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6684",
+        "similarity_score": 0.3978834553127285
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6150",
+        "similarity_score": 0.3978570273558116
+    },
+    {
+        "stock1": "2465",
+        "stock2": "2377",
+        "similarity_score": 0.3977987660318983
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2615",
+        "similarity_score": 0.39775475460887966
+    },
+    {
+        "stock1": "6150",
+        "stock2": "4562",
+        "similarity_score": 0.3974631853419092
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8064",
+        "similarity_score": 0.3973423201883144
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2609",
+        "similarity_score": 0.3971633114229012
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2609",
+        "similarity_score": 0.39708832471596295
+    },
+    {
+        "stock1": "3324",
+        "stock2": "8054",
+        "similarity_score": 0.3969899171984443
+    },
+    {
+        "stock1": "2465",
+        "stock2": "8054",
+        "similarity_score": 0.39697976255152023
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2615",
+        "similarity_score": 0.3968175704114435
+    },
+    {
+        "stock1": "8104",
+        "stock2": "8440",
+        "similarity_score": 0.39676737411249785
+    },
+    {
+        "stock1": "8071",
+        "stock2": "3050",
+        "similarity_score": 0.3964503675927334
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3515",
+        "similarity_score": 0.39643465046508075
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6215",
+        "similarity_score": 0.3961776683592996
+    },
+    {
+        "stock1": "8028",
+        "stock2": "6462",
+        "similarity_score": 0.3961638581764278
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3073",
+        "similarity_score": 0.3960416523135732
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3050",
+        "similarity_score": 0.39598714791201817
+    },
+    {
+        "stock1": "2377",
+        "stock2": "2376",
+        "similarity_score": 0.39596440974943264
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6806",
+        "similarity_score": 0.3952870585941349
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2603",
+        "similarity_score": 0.39512074757677457
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2605",
+        "similarity_score": 0.3948551250011746
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2467",
+        "similarity_score": 0.3947976489160045
+    },
+    {
+        "stock1": "3324",
+        "stock2": "3025",
+        "similarity_score": 0.394787083160595
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3050",
+        "similarity_score": 0.39443740002391664
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2359",
+        "similarity_score": 0.3935717814072053
+    },
+    {
+        "stock1": "5392",
+        "stock2": "5608",
+        "similarity_score": 0.39347894354394963
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6695",
+        "similarity_score": 0.3933901183951494
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2606",
+        "similarity_score": 0.39317277608818235
+    },
+    {
+        "stock1": "8374",
+        "stock2": "5608",
+        "similarity_score": 0.39282266530414894
+    },
+    {
+        "stock1": "3580",
+        "stock2": "6243",
+        "similarity_score": 0.3928198041476402
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2605",
+        "similarity_score": 0.3927776325205453
+    },
+    {
+        "stock1": "2359",
+        "stock2": "8064",
+        "similarity_score": 0.39264337249804215
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6640",
+        "similarity_score": 0.3925679628241286
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3535",
+        "similarity_score": 0.3925657927667309
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3073",
+        "similarity_score": 0.3924146311508416
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6806",
+        "similarity_score": 0.3923428095822775
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2603",
+        "similarity_score": 0.3920685151022776
+    },
+    {
+        "stock1": "2615",
+        "stock2": "2606",
+        "similarity_score": 0.39205047872946985
+    },
+    {
+        "stock1": "6451",
+        "stock2": "6442",
+        "similarity_score": 0.39203517608295907
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2425",
+        "similarity_score": 0.3915506577670156
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2605",
+        "similarity_score": 0.39120825621004196
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6684",
+        "similarity_score": 0.39099515952624075
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2603",
+        "similarity_score": 0.3907906143567095
+    },
+    {
+        "stock1": "6462",
+        "stock2": "6806",
+        "similarity_score": 0.39078091099719275
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2605",
+        "similarity_score": 0.3907773555092328
+    },
+    {
+        "stock1": "2467",
+        "stock2": "8104",
+        "similarity_score": 0.3905920245847295
+    },
+    {
+        "stock1": "8028",
+        "stock2": "6243",
+        "similarity_score": 0.39051557614969223
+    },
+    {
+        "stock1": "3050",
+        "stock2": "5608",
+        "similarity_score": 0.39011392958367
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2603",
+        "similarity_score": 0.3899713605414906
+    },
+    {
+        "stock1": "8064",
+        "stock2": "6695",
+        "similarity_score": 0.389917584645144
+    },
+    {
+        "stock1": "5392",
+        "stock2": "8064",
+        "similarity_score": 0.38991061017312006
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8028",
+        "similarity_score": 0.38979467661960615
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2467",
+        "similarity_score": 0.38958310092184834
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2605",
+        "similarity_score": 0.38955862329371244
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2603",
+        "similarity_score": 0.3893440618350207
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2467",
+        "similarity_score": 0.3891353121529665
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2613",
+        "similarity_score": 0.38886286846242524
+    },
+    {
+        "stock1": "8064",
+        "stock2": "8440",
+        "similarity_score": 0.3887667051551558
+    },
+    {
+        "stock1": "2465",
+        "stock2": "2376",
+        "similarity_score": 0.38864213462390873
+    },
+    {
+        "stock1": "2377",
+        "stock2": "8054",
+        "similarity_score": 0.38856616005108735
+    },
+    {
+        "stock1": "8071",
+        "stock2": "3073",
+        "similarity_score": 0.38855906071397295
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2637",
+        "similarity_score": 0.3885402256839392
+    },
+    {
+        "stock1": "2349",
+        "stock2": "8104",
+        "similarity_score": 0.3885401775664926
+    },
+    {
+        "stock1": "8071",
+        "stock2": "5443",
+        "similarity_score": 0.38843690287039223
+    },
+    {
+        "stock1": "4979",
+        "stock2": "3450",
+        "similarity_score": 0.3883448466913561
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6150",
+        "similarity_score": 0.3883354040975943
+    },
+    {
+        "stock1": "3338",
+        "stock2": "4979",
+        "similarity_score": 0.38828940396368394
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8374",
+        "similarity_score": 0.3882543412543563
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2349",
+        "similarity_score": 0.3880359778535181
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6215",
+        "similarity_score": 0.38795370933698076
+    },
+    {
+        "stock1": "6125",
+        "stock2": "4755",
+        "similarity_score": 0.3879254632616152
+    },
+    {
+        "stock1": "3535",
+        "stock2": "6695",
+        "similarity_score": 0.38721477224354245
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2637",
+        "similarity_score": 0.3872117225067664
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3580",
+        "similarity_score": 0.387203439966851
+    },
+    {
+        "stock1": "2376",
+        "stock2": "4908",
+        "similarity_score": 0.3870570049624559
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2603",
+        "similarity_score": 0.38701797514428665
+    },
+    {
+        "stock1": "8028",
+        "stock2": "5608",
+        "similarity_score": 0.3869279999214089
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2603",
+        "similarity_score": 0.38671040417016095
+    },
+    {
+        "stock1": "3535",
+        "stock2": "5608",
+        "similarity_score": 0.38663522486619006
+    },
+    {
+        "stock1": "3324",
+        "stock2": "4755",
+        "similarity_score": 0.3865232497287114
+    },
+    {
+        "stock1": "3324",
+        "stock2": "3231",
+        "similarity_score": 0.3865145167433411
+    },
+    {
+        "stock1": "2465",
+        "stock2": "8374",
+        "similarity_score": 0.3864814675209607
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3050",
+        "similarity_score": 0.3862971175723356
+    },
+    {
+        "stock1": "8104",
+        "stock2": "2609",
+        "similarity_score": 0.3861893713922783
+    },
+    {
+        "stock1": "2467",
+        "stock2": "8440",
+        "similarity_score": 0.38603595867098256
+    },
+    {
+        "stock1": "4755",
+        "stock2": "8234",
+        "similarity_score": 0.38580783228843235
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6695",
+        "similarity_score": 0.3857920444255243
+    },
+    {
+        "stock1": "3163",
+        "stock2": "4908",
+        "similarity_score": 0.3855398340224857
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6150",
+        "similarity_score": 0.38545800305387407
+    },
+    {
+        "stock1": "2359",
+        "stock2": "3050",
+        "similarity_score": 0.38531019643016845
+    },
+    {
+        "stock1": "6188",
+        "stock2": "6695",
+        "similarity_score": 0.38530585833951814
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6442",
+        "similarity_score": 0.38521849242965767
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3580",
+        "similarity_score": 0.3849627628303451
+    },
+    {
+        "stock1": "3338",
+        "stock2": "4755",
+        "similarity_score": 0.3849553182219282
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6243",
+        "similarity_score": 0.3847109910537943
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8374",
+        "similarity_score": 0.3846465020848718
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2467",
+        "similarity_score": 0.3843445632227084
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6451",
+        "similarity_score": 0.3842789205283541
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6462",
+        "similarity_score": 0.38420618194628164
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3515",
+        "similarity_score": 0.3841712527202364
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6806",
+        "similarity_score": 0.38408750043634343
+    },
+    {
+        "stock1": "6684",
+        "stock2": "6243",
+        "similarity_score": 0.38381589055596693
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2612",
+        "similarity_score": 0.38377029436590365
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3073",
+        "similarity_score": 0.38355534194676566
+    },
+    {
+        "stock1": "2374",
+        "stock2": "6640",
+        "similarity_score": 0.3835437111638924
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6442",
+        "similarity_score": 0.38326608997969974
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2603",
+        "similarity_score": 0.3832065263599418
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6806",
+        "similarity_score": 0.38318140355700697
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8374",
+        "similarity_score": 0.38313676944121455
+    },
+    {
+        "stock1": "4562",
+        "stock2": "4979",
+        "similarity_score": 0.38295075600662104
+    },
+    {
+        "stock1": "8054",
+        "stock2": "6806",
+        "similarity_score": 0.382633742083393
+    },
+    {
+        "stock1": "3324",
+        "stock2": "3073",
+        "similarity_score": 0.3825844696503748
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2613",
+        "similarity_score": 0.3819096332580281
+    },
+    {
+        "stock1": "3450",
+        "stock2": "6530",
+        "similarity_score": 0.3818952250642134
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6695",
+        "similarity_score": 0.38184479698019014
+    },
+    {
+        "stock1": "3363",
+        "stock2": "6462",
+        "similarity_score": 0.3817178314373599
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2467",
+        "similarity_score": 0.3816545222450029
+    },
+    {
+        "stock1": "6243",
+        "stock2": "6806",
+        "similarity_score": 0.38162937173715605
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8104",
+        "similarity_score": 0.3816115001358712
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3073",
+        "similarity_score": 0.3815721303439498
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6695",
+        "similarity_score": 0.381290810992174
+    },
+    {
+        "stock1": "2365",
+        "stock2": "5608",
+        "similarity_score": 0.38127754625869914
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2603",
+        "similarity_score": 0.38126532250747314
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6640",
+        "similarity_score": 0.38123216558190115
+    },
+    {
+        "stock1": "2603",
+        "stock2": "2605",
+        "similarity_score": 0.3811676729271912
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2606",
+        "similarity_score": 0.3811474246163197
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2603",
+        "similarity_score": 0.38109211337532733
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6640",
+        "similarity_score": 0.3810367395014263
+    },
+    {
+        "stock1": "1727",
+        "stock2": "5386",
+        "similarity_score": 0.38101084497060606
+    },
+    {
+        "stock1": "2365",
+        "stock2": "8064",
+        "similarity_score": 0.38089526270245383
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6695",
+        "similarity_score": 0.38083385435439754
+    },
+    {
+        "stock1": "3017",
+        "stock2": "1711",
+        "similarity_score": 0.38070663977197294
+    },
+    {
+        "stock1": "6125",
+        "stock2": "4979",
+        "similarity_score": 0.3805068123667523
+    },
+    {
+        "stock1": "5392",
+        "stock2": "8104",
+        "similarity_score": 0.3804914957258522
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3515",
+        "similarity_score": 0.3804328921215839
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2467",
+        "similarity_score": 0.3804107412006321
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3025",
+        "similarity_score": 0.38032968017858026
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3073",
+        "similarity_score": 0.38029567823171556
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6462",
+        "similarity_score": 0.3801807844262151
+    },
+    {
+        "stock1": "4755",
+        "stock2": "8440",
+        "similarity_score": 0.38013861509169233
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2603",
+        "similarity_score": 0.37940742988390747
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2605",
+        "similarity_score": 0.3792597518505581
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6806",
+        "similarity_score": 0.37922211033904235
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6695",
+        "similarity_score": 0.37917164737670034
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6695",
+        "similarity_score": 0.37905666169231206
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8028",
+        "similarity_score": 0.37896846698297126
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2615",
+        "similarity_score": 0.3788209141102345
+    },
+    {
+        "stock1": "8028",
+        "stock2": "3073",
+        "similarity_score": 0.37866476857976805
+    },
+    {
+        "stock1": "3050",
+        "stock2": "8440",
+        "similarity_score": 0.3786286994169749
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2615",
+        "similarity_score": 0.3785281453154125
+    },
+    {
+        "stock1": "1727",
+        "stock2": "5443",
+        "similarity_score": 0.3784369081917407
+    },
+    {
+        "stock1": "3450",
+        "stock2": "6640",
+        "similarity_score": 0.37836718296833055
+    },
+    {
+        "stock1": "2376",
+        "stock2": "3363",
+        "similarity_score": 0.3782530141179133
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2603",
+        "similarity_score": 0.37818418865745085
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2609",
+        "similarity_score": 0.3781003010676107
+    },
+    {
+        "stock1": "3231",
+        "stock2": "3025",
+        "similarity_score": 0.378086262939896
+    },
+    {
+        "stock1": "8374",
+        "stock2": "8440",
+        "similarity_score": 0.37788570661814547
+    },
+    {
+        "stock1": "2399",
+        "stock2": "4979",
+        "similarity_score": 0.3778638677158661
+    },
+    {
+        "stock1": "6462",
+        "stock2": "3050",
+        "similarity_score": 0.37757044260366096
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6215",
+        "similarity_score": 0.3775504129097524
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2615",
+        "similarity_score": 0.37752102749884786
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6684",
+        "similarity_score": 0.37750033329228266
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2603",
+        "similarity_score": 0.3772614452896454
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2467",
+        "similarity_score": 0.37720072963940066
+    },
+    {
+        "stock1": "6806",
+        "stock2": "2606",
+        "similarity_score": 0.3770984331172312
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3050",
+        "similarity_score": 0.37691397975684215
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2613",
+        "similarity_score": 0.37640690237779934
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2467",
+        "similarity_score": 0.37634452453379047
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2612",
+        "similarity_score": 0.37633146412587853
+    },
+    {
+        "stock1": "2376",
+        "stock2": "8374",
+        "similarity_score": 0.37619255595371726
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6442",
+        "similarity_score": 0.3761405672764072
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3050",
+        "similarity_score": 0.37602449955956435
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8064",
+        "similarity_score": 0.37585134976681894
+    },
+    {
+        "stock1": "8374",
+        "stock2": "5392",
+        "similarity_score": 0.3756780545659179
+    },
+    {
+        "stock1": "2349",
+        "stock2": "2603",
+        "similarity_score": 0.37562589517125466
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2612",
+        "similarity_score": 0.3756118286019465
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6684",
+        "similarity_score": 0.3755029051644483
+    },
+    {
+        "stock1": "2374",
+        "stock2": "6530",
+        "similarity_score": 0.37545018053898166
+    },
+    {
+        "stock1": "8054",
+        "stock2": "6243",
+        "similarity_score": 0.3754499999843918
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2399",
+        "similarity_score": 0.375239433465713
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6243",
+        "similarity_score": 0.3752076121969868
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2612",
+        "similarity_score": 0.37513854998784063
+    },
+    {
+        "stock1": "4979",
+        "stock2": "3663",
+        "similarity_score": 0.3747967895739985
+    },
+    {
+        "stock1": "3535",
+        "stock2": "3073",
+        "similarity_score": 0.374772371167978
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6442",
+        "similarity_score": 0.3747231003110219
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3050",
+        "similarity_score": 0.3747118322334137
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3515",
+        "similarity_score": 0.3746387186207133
+    },
+    {
+        "stock1": "3324",
+        "stock2": "8374",
+        "similarity_score": 0.37437146894866086
+    },
+    {
+        "stock1": "2377",
+        "stock2": "3363",
+        "similarity_score": 0.37407275217913366
+    },
+    {
+        "stock1": "2637",
+        "stock2": "5608",
+        "similarity_score": 0.37405085976600844
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8374",
+        "similarity_score": 0.3740354789221073
+    },
+    {
+        "stock1": "4979",
+        "stock2": "5608",
+        "similarity_score": 0.3739951392127683
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6462",
+        "similarity_score": 0.3739920256061379
+    },
+    {
+        "stock1": "4755",
+        "stock2": "8374",
+        "similarity_score": 0.37396062972665617
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2609",
+        "similarity_score": 0.37395613257437677
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2467",
+        "similarity_score": 0.3737608149643335
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2612",
+        "similarity_score": 0.3736762178844474
+    },
+    {
+        "stock1": "2425",
+        "stock2": "3050",
+        "similarity_score": 0.373634024592126
+    },
+    {
+        "stock1": "3073",
+        "stock2": "5608",
+        "similarity_score": 0.37323443928479455
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6695",
+        "similarity_score": 0.3731383410773342
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6188",
+        "similarity_score": 0.37313425970092673
+    },
+    {
+        "stock1": "2465",
+        "stock2": "4908",
+        "similarity_score": 0.3729212967792955
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8374",
+        "similarity_score": 0.37266576779375704
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6695",
+        "similarity_score": 0.37238599004086154
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3073",
+        "similarity_score": 0.37237298646439054
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6215",
+        "similarity_score": 0.37231112402823374
+    },
+    {
+        "stock1": "3324",
+        "stock2": "4908",
+        "similarity_score": 0.37224588328929087
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2613",
+        "similarity_score": 0.3721396946971812
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2637",
+        "similarity_score": 0.3720946261805108
+    },
+    {
+        "stock1": "6442",
+        "stock2": "6462",
+        "similarity_score": 0.3720078052773337
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2467",
+        "similarity_score": 0.3719748792105372
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3073",
+        "similarity_score": 0.371767827359705
+    },
+    {
+        "stock1": "2613",
+        "stock2": "2637",
+        "similarity_score": 0.37175525442018675
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3050",
+        "similarity_score": 0.371719042068482
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2377",
+        "similarity_score": 0.3714417211301688
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2612",
+        "similarity_score": 0.3712462886674557
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3050",
+        "similarity_score": 0.37114347137035925
+    },
+    {
+        "stock1": "6442",
+        "stock2": "6869",
+        "similarity_score": 0.37109281555388574
+    },
+    {
+        "stock1": "2349",
+        "stock2": "3050",
+        "similarity_score": 0.3708690238587636
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6243",
+        "similarity_score": 0.3707168460455717
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2637",
+        "similarity_score": 0.3705144182800468
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6684",
+        "similarity_score": 0.37014547913620166
+    },
+    {
+        "stock1": "3535",
+        "stock2": "8104",
+        "similarity_score": 0.3700962500148565
+    },
+    {
+        "stock1": "6215",
+        "stock2": "6806",
+        "similarity_score": 0.3700530971434392
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6869",
+        "similarity_score": 0.37003692886061373
+    },
+    {
+        "stock1": "3450",
+        "stock2": "2467",
+        "similarity_score": 0.3699393905300446
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2606",
+        "similarity_score": 0.3698635107875577
+    },
+    {
+        "stock1": "6188",
+        "stock2": "8028",
+        "similarity_score": 0.36966909854194946
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3073",
+        "similarity_score": 0.369427921427689
+    },
+    {
+        "stock1": "2467",
+        "stock2": "6640",
+        "similarity_score": 0.3694029880659733
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2376",
+        "similarity_score": 0.3689961871438458
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2365",
+        "similarity_score": 0.3688204266941981
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3535",
+        "similarity_score": 0.36881676887007836
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6462",
+        "similarity_score": 0.3685795703960008
+    },
+    {
+        "stock1": "3025",
+        "stock2": "8054",
+        "similarity_score": 0.3683269436852815
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8028",
+        "similarity_score": 0.368126333504666
+    },
+    {
+        "stock1": "3535",
+        "stock2": "3050",
+        "similarity_score": 0.3680595218377733
+    },
+    {
+        "stock1": "3025",
+        "stock2": "3073",
+        "similarity_score": 0.3680511007471921
+    },
+    {
+        "stock1": "3515",
+        "stock2": "5608",
+        "similarity_score": 0.368013414690913
+    },
+    {
+        "stock1": "8234",
+        "stock2": "8028",
+        "similarity_score": 0.36799468813673
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6150",
+        "similarity_score": 0.3679416009920932
+    },
+    {
+        "stock1": "3025",
+        "stock2": "3363",
+        "similarity_score": 0.36783384286370174
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2467",
+        "similarity_score": 0.36773886584223653
+    },
+    {
+        "stock1": "8064",
+        "stock2": "8054",
+        "similarity_score": 0.36768901259299713
+    },
+    {
+        "stock1": "3515",
+        "stock2": "8234",
+        "similarity_score": 0.3676616591033458
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6188",
+        "similarity_score": 0.3676447896075146
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2612",
+        "similarity_score": 0.36754896056555
+    },
+    {
+        "stock1": "3017",
+        "stock2": "5386",
+        "similarity_score": 0.3674721354847938
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2637",
+        "similarity_score": 0.36629328265155514
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3073",
+        "similarity_score": 0.3659817777367254
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2349",
+        "similarity_score": 0.3657496628839935
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2603",
+        "similarity_score": 0.36573533436788025
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8054",
+        "similarity_score": 0.36570825790602085
+    },
+    {
+        "stock1": "4908",
+        "stock2": "3363",
+        "similarity_score": 0.3656861258251231
+    },
+    {
+        "stock1": "2359",
+        "stock2": "6695",
+        "similarity_score": 0.36560104457119513
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6806",
+        "similarity_score": 0.36559757534979437
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8440",
+        "similarity_score": 0.3654552159743919
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6462",
+        "similarity_score": 0.36530403411232876
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2374",
+        "similarity_score": 0.36518543911134466
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2637",
+        "similarity_score": 0.3651734714561652
+    },
+    {
+        "stock1": "2425",
+        "stock2": "3073",
+        "similarity_score": 0.3651302568087521
+    },
+    {
+        "stock1": "4755",
+        "stock2": "8064",
+        "similarity_score": 0.3650633001845242
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2605",
+        "similarity_score": 0.36490010747399865
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6442",
+        "similarity_score": 0.3648901651264784
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3515",
+        "similarity_score": 0.3647837593913207
+    },
+    {
+        "stock1": "3663",
+        "stock2": "6684",
+        "similarity_score": 0.3647638826655798
+    },
+    {
+        "stock1": "6695",
+        "stock2": "8440",
+        "similarity_score": 0.36476206329359034
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3663",
+        "similarity_score": 0.3647570377087966
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2467",
+        "similarity_score": 0.36452203663269467
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6695",
+        "similarity_score": 0.36428078579816153
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8028",
+        "similarity_score": 0.364133828766556
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6442",
+        "similarity_score": 0.3640942655406016
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8054",
+        "similarity_score": 0.3640913159765706
+    },
+    {
+        "stock1": "3025",
+        "stock2": "8064",
+        "similarity_score": 0.36407472928492157
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3025",
+        "similarity_score": 0.36405042539954735
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6806",
+        "similarity_score": 0.36390059936346886
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2467",
+        "similarity_score": 0.3637123680190622
+    },
+    {
+        "stock1": "3450",
+        "stock2": "6442",
+        "similarity_score": 0.3635460201182748
+    },
+    {
+        "stock1": "2365",
+        "stock2": "3450",
+        "similarity_score": 0.3634310930031889
+    },
+    {
+        "stock1": "2377",
+        "stock2": "4908",
+        "similarity_score": 0.36342174518584386
+    },
+    {
+        "stock1": "6530",
+        "stock2": "6640",
+        "similarity_score": 0.3633944830055138
+    },
+    {
+        "stock1": "3073",
+        "stock2": "8440",
+        "similarity_score": 0.363311201214104
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2603",
+        "similarity_score": 0.3632533539854486
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2606",
+        "similarity_score": 0.36319001396530526
+    },
+    {
+        "stock1": "5386",
+        "stock2": "5392",
+        "similarity_score": 0.3628868720309428
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2349",
+        "similarity_score": 0.362833802131809
+    },
+    {
+        "stock1": "4908",
+        "stock2": "8054",
+        "similarity_score": 0.36277757051942844
+    },
+    {
+        "stock1": "5443",
+        "stock2": "6243",
+        "similarity_score": 0.36275668862591176
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2613",
+        "similarity_score": 0.3627432603166975
+    },
+    {
+        "stock1": "6442",
+        "stock2": "3073",
+        "similarity_score": 0.3627289912278636
+    },
+    {
+        "stock1": "3663",
+        "stock2": "8028",
+        "similarity_score": 0.36263790845552674
+    },
+    {
+        "stock1": "3450",
+        "stock2": "3535",
+        "similarity_score": 0.3620235571868952
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2606",
+        "similarity_score": 0.3619433048153628
+    },
+    {
+        "stock1": "3017",
+        "stock2": "1727",
+        "similarity_score": 0.3619073328304551
+    },
+    {
+        "stock1": "3324",
+        "stock2": "3050",
+        "similarity_score": 0.36188845243638956
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6243",
+        "similarity_score": 0.36179668266892545
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2603",
+        "similarity_score": 0.36167203337692
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8028",
+        "similarity_score": 0.36163497700598984
+    },
+    {
+        "stock1": "6230",
+        "stock2": "5386",
+        "similarity_score": 0.361582659573347
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8071",
+        "similarity_score": 0.3614675108532244
+    },
+    {
+        "stock1": "1711",
+        "stock2": "5386",
+        "similarity_score": 0.3612173659329927
+    },
+    {
+        "stock1": "2376",
+        "stock2": "3050",
+        "similarity_score": 0.3611096845175829
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2603",
+        "similarity_score": 0.36080721589803244
+    },
+    {
+        "stock1": "8104",
+        "stock2": "2613",
+        "similarity_score": 0.3607225620423962
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3025",
+        "similarity_score": 0.36059665023671833
+    },
+    {
+        "stock1": "6215",
+        "stock2": "5443",
+        "similarity_score": 0.3604218410746689
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6695",
+        "similarity_score": 0.36037128594491635
+    },
+    {
+        "stock1": "2603",
+        "stock2": "2637",
+        "similarity_score": 0.3603341754915359
+    },
+    {
+        "stock1": "8064",
+        "stock2": "6684",
+        "similarity_score": 0.3602369890357318
+    },
+    {
+        "stock1": "8071",
+        "stock2": "4979",
+        "similarity_score": 0.3599711782469836
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3535",
+        "similarity_score": 0.3598552120003149
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2613",
+        "similarity_score": 0.3598461259868192
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6806",
+        "similarity_score": 0.35981171804107814
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6684",
+        "similarity_score": 0.3598037718604526
+    },
+    {
+        "stock1": "3324",
+        "stock2": "8028",
+        "similarity_score": 0.35946752677759364
+    },
+    {
+        "stock1": "6806",
+        "stock2": "2615",
+        "similarity_score": 0.3594439649070931
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2615",
+        "similarity_score": 0.3592865116446305
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2603",
+        "similarity_score": 0.35926425991905975
+    },
+    {
+        "stock1": "2374",
+        "stock2": "6869",
+        "similarity_score": 0.3588950376296031
+    },
+    {
+        "stock1": "3017",
+        "stock2": "8071",
+        "similarity_score": 0.35886152606507676
+    },
+    {
+        "stock1": "6462",
+        "stock2": "6243",
+        "similarity_score": 0.35869141388472325
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6695",
+        "similarity_score": 0.35851704095636056
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2615",
+        "similarity_score": 0.35847162858665205
+    },
+    {
+        "stock1": "2376",
+        "stock2": "8028",
+        "similarity_score": 0.35837176319054137
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3050",
+        "similarity_score": 0.3583420806997739
+    },
+    {
+        "stock1": "3450",
+        "stock2": "8104",
+        "similarity_score": 0.35834195705455596
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3363",
+        "similarity_score": 0.3582063448913533
+    },
+    {
+        "stock1": "4755",
+        "stock2": "8054",
+        "similarity_score": 0.35818402109357905
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2465",
+        "similarity_score": 0.3579649675360353
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6684",
+        "similarity_score": 0.35786536123985363
+    },
+    {
+        "stock1": "8064",
+        "stock2": "6806",
+        "similarity_score": 0.3577814733577555
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6451",
+        "similarity_score": 0.3574944751256223
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2606",
+        "similarity_score": 0.3573835061070631
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6695",
+        "similarity_score": 0.3571405060887798
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3450",
+        "similarity_score": 0.35702297579509834
+    },
+    {
+        "stock1": "6215",
+        "stock2": "8054",
+        "similarity_score": 0.3569460643846746
+    },
+    {
+        "stock1": "1597",
+        "stock2": "3450",
+        "similarity_score": 0.356925772588054
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2603",
+        "similarity_score": 0.35688295864067016
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2637",
+        "similarity_score": 0.356845564605513
+    },
+    {
+        "stock1": "8028",
+        "stock2": "6806",
+        "similarity_score": 0.3568178287824155
+    },
+    {
+        "stock1": "5386",
+        "stock2": "4562",
+        "similarity_score": 0.35676865682792397
+    },
+    {
+        "stock1": "2425",
+        "stock2": "5386",
+        "similarity_score": 0.3567332045450107
+    },
+    {
+        "stock1": "2359",
+        "stock2": "3073",
+        "similarity_score": 0.3565366801216474
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2467",
+        "similarity_score": 0.3565115056214459
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3163",
+        "similarity_score": 0.35646347936130657
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2376",
+        "similarity_score": 0.35618527589804005
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6806",
+        "similarity_score": 0.35595666866234227
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6869",
+        "similarity_score": 0.35594602858834234
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8028",
+        "similarity_score": 0.35585544631831456
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6695",
+        "similarity_score": 0.3557472051465632
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6684",
+        "similarity_score": 0.35566142781939586
+    },
+    {
+        "stock1": "3580",
+        "stock2": "3073",
+        "similarity_score": 0.35563245913069624
+    },
+    {
+        "stock1": "3017",
+        "stock2": "8064",
+        "similarity_score": 0.3556119534280294
+    },
+    {
+        "stock1": "3363",
+        "stock2": "6442",
+        "similarity_score": 0.3555181928859943
+    },
+    {
+        "stock1": "8234",
+        "stock2": "8104",
+        "similarity_score": 0.3554899059028242
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2603",
+        "similarity_score": 0.3554565680010728
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6215",
+        "similarity_score": 0.3554206669134494
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8064",
+        "similarity_score": 0.3554132433659317
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2467",
+        "similarity_score": 0.3553264077893128
+    },
+    {
+        "stock1": "3663",
+        "stock2": "8054",
+        "similarity_score": 0.3552047944623858
+    },
+    {
+        "stock1": "3025",
+        "stock2": "2637",
+        "similarity_score": 0.35495199193339083
+    },
+    {
+        "stock1": "4979",
+        "stock2": "8064",
+        "similarity_score": 0.3549031393346316
+    },
+    {
+        "stock1": "3580",
+        "stock2": "3050",
+        "similarity_score": 0.35485905820347635
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2603",
+        "similarity_score": 0.35485455461036397
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6243",
+        "similarity_score": 0.3548500276884654
+    },
+    {
+        "stock1": "2425",
+        "stock2": "3515",
+        "similarity_score": 0.3545962691707558
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2377",
+        "similarity_score": 0.3542659438530434
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3050",
+        "similarity_score": 0.35425002747329415
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2467",
+        "similarity_score": 0.3542484219029079
+    },
+    {
+        "stock1": "5386",
+        "stock2": "5608",
+        "similarity_score": 0.3541301940855087
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2603",
+        "similarity_score": 0.35395911611588904
+    },
+    {
+        "stock1": "6451",
+        "stock2": "6869",
+        "similarity_score": 0.3538517238329434
+    },
+    {
+        "stock1": "2603",
+        "stock2": "2606",
+        "similarity_score": 0.35384552908351863
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6695",
+        "similarity_score": 0.35367972625035476
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2612",
+        "similarity_score": 0.35349238783093234
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2376",
+        "similarity_score": 0.3533639524002884
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6684",
+        "similarity_score": 0.35335876474463523
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2365",
+        "similarity_score": 0.3532651206191131
+    },
+    {
+        "stock1": "6442",
+        "stock2": "6640",
+        "similarity_score": 0.3531885335031397
+    },
+    {
+        "stock1": "3025",
+        "stock2": "4908",
+        "similarity_score": 0.353014861963614
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2609",
+        "similarity_score": 0.35293551567540243
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2359",
+        "similarity_score": 0.35266231139625265
+    },
+    {
+        "stock1": "2467",
+        "stock2": "5608",
+        "similarity_score": 0.352648036299679
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2467",
+        "similarity_score": 0.35250603682831777
+    },
+    {
+        "stock1": "2606",
+        "stock2": "5608",
+        "similarity_score": 0.3524732049721948
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3050",
+        "similarity_score": 0.35238737845140605
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6869",
+        "similarity_score": 0.35229529367515466
+    },
+    {
+        "stock1": "1597",
+        "stock2": "3050",
+        "similarity_score": 0.35220812739378504
+    },
+    {
+        "stock1": "8064",
+        "stock2": "6462",
+        "similarity_score": 0.35210828293426855
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2615",
+        "similarity_score": 0.35200189540079224
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2637",
+        "similarity_score": 0.35188699542282326
+    },
+    {
+        "stock1": "8374",
+        "stock2": "5443",
+        "similarity_score": 0.3518454859970337
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8374",
+        "similarity_score": 0.351712862340036
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6230",
+        "similarity_score": 0.3516622158097597
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8064",
+        "similarity_score": 0.35165674699673344
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2605",
+        "similarity_score": 0.35156584929652956
+    },
+    {
+        "stock1": "3450",
+        "stock2": "3580",
+        "similarity_score": 0.35138792214431863
+    },
+    {
+        "stock1": "1711",
+        "stock2": "4979",
+        "similarity_score": 0.3513177967377296
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6442",
+        "similarity_score": 0.3511872712525584
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2467",
+        "similarity_score": 0.3511683319745475
+    },
+    {
+        "stock1": "3324",
+        "stock2": "5386",
+        "similarity_score": 0.35109916358612364
+    },
+    {
+        "stock1": "6188",
+        "stock2": "8104",
+        "similarity_score": 0.35108142459720904
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6188",
+        "similarity_score": 0.35091649586875406
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2609",
+        "similarity_score": 0.35083671462672755
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6243",
+        "similarity_score": 0.3507497099862057
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3515",
+        "similarity_score": 0.3506922420741263
+    },
+    {
+        "stock1": "3450",
+        "stock2": "6869",
+        "similarity_score": 0.35066512374884595
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2615",
+        "similarity_score": 0.35052496770747454
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2467",
+        "similarity_score": 0.3504344849338848
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2606",
+        "similarity_score": 0.35039114340618077
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6530",
+        "similarity_score": 0.35029663638782504
+    },
+    {
+        "stock1": "2637",
+        "stock2": "2605",
+        "similarity_score": 0.3502416129646234
+    },
+    {
+        "stock1": "2359",
+        "stock2": "8104",
+        "similarity_score": 0.35016788950268624
+    },
+    {
+        "stock1": "3515",
+        "stock2": "5392",
+        "similarity_score": 0.35015198700348604
+    },
+    {
+        "stock1": "3663",
+        "stock2": "6806",
+        "similarity_score": 0.35010596733231836
+    },
+    {
+        "stock1": "3025",
+        "stock2": "3050",
+        "similarity_score": 0.3499298215207353
+    },
+    {
+        "stock1": "5386",
+        "stock2": "5443",
+        "similarity_score": 0.34991530348916255
+    },
+    {
+        "stock1": "1597",
+        "stock2": "3073",
+        "similarity_score": 0.3498949239080531
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3025",
+        "similarity_score": 0.3498884473154719
+    },
+    {
+        "stock1": "3535",
+        "stock2": "8028",
+        "similarity_score": 0.3498305976106945
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8234",
+        "similarity_score": 0.3497347344722629
+    },
+    {
+        "stock1": "2374",
+        "stock2": "6442",
+        "similarity_score": 0.34965332917445446
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3450",
+        "similarity_score": 0.3495146693683851
+    },
+    {
+        "stock1": "4755",
+        "stock2": "1597",
+        "similarity_score": 0.3494129141526046
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2612",
+        "similarity_score": 0.3494106612606373
+    },
+    {
+        "stock1": "6451",
+        "stock2": "6806",
+        "similarity_score": 0.34930666527148313
+    },
+    {
+        "stock1": "3324",
+        "stock2": "8064",
+        "similarity_score": 0.3492062336723391
+    },
+    {
+        "stock1": "6530",
+        "stock2": "6442",
+        "similarity_score": 0.3491843706531964
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2603",
+        "similarity_score": 0.3490772142293211
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2606",
+        "similarity_score": 0.34894452960103084
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2465",
+        "similarity_score": 0.3489245490073007
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2399",
+        "similarity_score": 0.34882121291973595
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6695",
+        "similarity_score": 0.34876121657874726
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3663",
+        "similarity_score": 0.348719515182341
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3017",
+        "similarity_score": 0.34856135326284804
+    },
+    {
+        "stock1": "5386",
+        "stock2": "1597",
+        "similarity_score": 0.34837972251057847
+    },
+    {
+        "stock1": "3231",
+        "stock2": "8028",
+        "similarity_score": 0.34832816314524445
+    },
+    {
+        "stock1": "3025",
+        "stock2": "2606",
+        "similarity_score": 0.34824631476687146
+    },
+    {
+        "stock1": "3231",
+        "stock2": "8054",
+        "similarity_score": 0.34821531306557185
+    },
+    {
+        "stock1": "2377",
+        "stock2": "8028",
+        "similarity_score": 0.34820038356184196
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3363",
+        "similarity_score": 0.3481914027179593
+    },
+    {
+        "stock1": "2464",
+        "stock2": "4908",
+        "similarity_score": 0.3481789256263301
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2637",
+        "similarity_score": 0.34806358962313666
+    },
+    {
+        "stock1": "4755",
+        "stock2": "5608",
+        "similarity_score": 0.34788018419806155
+    },
+    {
+        "stock1": "2359",
+        "stock2": "8028",
+        "similarity_score": 0.34779752385611246
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2613",
+        "similarity_score": 0.34774883441566645
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6684",
+        "similarity_score": 0.3476891548972018
+    },
+    {
+        "stock1": "2377",
+        "stock2": "2464",
+        "similarity_score": 0.3476211482500624
+    },
+    {
+        "stock1": "8028",
+        "stock2": "8440",
+        "similarity_score": 0.3476117802598744
+    },
+    {
+        "stock1": "2365",
+        "stock2": "3073",
+        "similarity_score": 0.34751925362089126
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2365",
+        "similarity_score": 0.3475159572727051
+    },
+    {
+        "stock1": "2365",
+        "stock2": "3050",
+        "similarity_score": 0.34737887733026945
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3073",
+        "similarity_score": 0.3473016350693139
+    },
+    {
+        "stock1": "2609",
+        "stock2": "2637",
+        "similarity_score": 0.34714453365388565
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2605",
+        "similarity_score": 0.34708121190563795
+    },
+    {
+        "stock1": "2612",
+        "stock2": "5608",
+        "similarity_score": 0.3470525617233988
+    },
+    {
+        "stock1": "8071",
+        "stock2": "8028",
+        "similarity_score": 0.34683024591966316
+    },
+    {
+        "stock1": "2377",
+        "stock2": "3231",
+        "similarity_score": 0.34682419415577576
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6462",
+        "similarity_score": 0.3467222083971339
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2612",
+        "similarity_score": 0.3467062824990585
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2615",
+        "similarity_score": 0.34667826980004424
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2359",
+        "similarity_score": 0.34646081600578954
+    },
+    {
+        "stock1": "5392",
+        "stock2": "8054",
+        "similarity_score": 0.34644683069443
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2615",
+        "similarity_score": 0.3463022263990915
+    },
+    {
+        "stock1": "3663",
+        "stock2": "2606",
+        "similarity_score": 0.34620304788318945
+    },
+    {
+        "stock1": "5386",
+        "stock2": "4908",
+        "similarity_score": 0.3460843342864875
+    },
+    {
+        "stock1": "3231",
+        "stock2": "3363",
+        "similarity_score": 0.3459876954316168
+    },
+    {
+        "stock1": "2376",
+        "stock2": "8064",
+        "similarity_score": 0.3456994604269641
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2606",
+        "similarity_score": 0.3456106099542976
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8054",
+        "similarity_score": 0.3455786283755003
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6451",
+        "similarity_score": 0.3453336358279246
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3363",
+        "similarity_score": 0.34530960372932423
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6869",
+        "similarity_score": 0.3452524026084425
+    },
+    {
+        "stock1": "6695",
+        "stock2": "5608",
+        "similarity_score": 0.34503503790098267
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6243",
+        "similarity_score": 0.34498957259224694
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2349",
+        "similarity_score": 0.34490515126834165
+    },
+    {
+        "stock1": "2377",
+        "stock2": "3025",
+        "similarity_score": 0.3448997480217163
+    },
+    {
+        "stock1": "6125",
+        "stock2": "5386",
+        "similarity_score": 0.34476869526432274
+    },
+    {
+        "stock1": "6806",
+        "stock2": "2637",
+        "similarity_score": 0.34461771023132576
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8054",
+        "similarity_score": 0.3445185138920449
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2359",
+        "similarity_score": 0.3445099020166002
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2465",
+        "similarity_score": 0.3443972800064065
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2637",
+        "similarity_score": 0.3440939767522065
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3073",
+        "similarity_score": 0.34401530829153265
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2609",
+        "similarity_score": 0.3438271019533947
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2615",
+        "similarity_score": 0.3438265851141644
+    },
+    {
+        "stock1": "3163",
+        "stock2": "2467",
+        "similarity_score": 0.34347391930999543
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2606",
+        "similarity_score": 0.3434207908741473
+    },
+    {
+        "stock1": "3515",
+        "stock2": "8440",
+        "similarity_score": 0.3429629545829417
+    },
+    {
+        "stock1": "2374",
+        "stock2": "3163",
+        "similarity_score": 0.3429372397339721
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6684",
+        "similarity_score": 0.3429161429639499
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6442",
+        "similarity_score": 0.3428602341119951
+    },
+    {
+        "stock1": "6150",
+        "stock2": "5608",
+        "similarity_score": 0.3427907424457917
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2637",
+        "similarity_score": 0.342783125952483
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2603",
+        "similarity_score": 0.342763106345072
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6243",
+        "similarity_score": 0.34252523890886033
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2637",
+        "similarity_score": 0.3425174424914433
+    },
+    {
+        "stock1": "5443",
+        "stock2": "2637",
+        "similarity_score": 0.34248210468016826
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3580",
+        "similarity_score": 0.342460693566641
+    },
+    {
+        "stock1": "6806",
+        "stock2": "2603",
+        "similarity_score": 0.34235741765943445
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3025",
+        "similarity_score": 0.34216790277938575
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2349",
+        "similarity_score": 0.3421676914640237
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2637",
+        "similarity_score": 0.34211058982416537
+    },
+    {
+        "stock1": "2377",
+        "stock2": "3050",
+        "similarity_score": 0.3420884763838023
+    },
+    {
+        "stock1": "6806",
+        "stock2": "5608",
+        "similarity_score": 0.34199850186434627
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2377",
+        "similarity_score": 0.3419975099103017
+    },
+    {
+        "stock1": "6215",
+        "stock2": "6462",
+        "similarity_score": 0.3418468707113066
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6869",
+        "similarity_score": 0.34177600259195
+    },
+    {
+        "stock1": "6215",
+        "stock2": "4979",
+        "similarity_score": 0.3416754979414085
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2605",
+        "similarity_score": 0.3414949858250663
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6442",
+        "similarity_score": 0.3414550510085432
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2603",
+        "similarity_score": 0.34143842509292
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8028",
+        "similarity_score": 0.34123247390104633
+    },
+    {
+        "stock1": "3535",
+        "stock2": "6869",
+        "similarity_score": 0.3411050698318462
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6215",
+        "similarity_score": 0.3410264710936194
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2613",
+        "similarity_score": 0.3409335702632197
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6684",
+        "similarity_score": 0.34082594934036214
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6695",
+        "similarity_score": 0.3407806785608575
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8104",
+        "similarity_score": 0.34068987227830644
+    },
+    {
+        "stock1": "3450",
+        "stock2": "8440",
+        "similarity_score": 0.3406007343072797
+    },
+    {
+        "stock1": "3450",
+        "stock2": "5443",
+        "similarity_score": 0.34058139558289635
+    },
+    {
+        "stock1": "3017",
+        "stock2": "4562",
+        "similarity_score": 0.3403827184088262
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3450",
+        "similarity_score": 0.34035020849004527
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3450",
+        "similarity_score": 0.3402166630376127
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6442",
+        "similarity_score": 0.340212971212495
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2465",
+        "similarity_score": 0.3401631504436868
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2606",
+        "similarity_score": 0.34012337192217007
+    },
+    {
+        "stock1": "5386",
+        "stock2": "8374",
+        "similarity_score": 0.34006250050762504
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3231",
+        "similarity_score": 0.33993666286870183
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2637",
+        "similarity_score": 0.3399001874737316
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2609",
+        "similarity_score": 0.33983299814678375
+    },
+    {
+        "stock1": "3363",
+        "stock2": "6806",
+        "similarity_score": 0.33973564178515475
+    },
+    {
+        "stock1": "2465",
+        "stock2": "8064",
+        "similarity_score": 0.33970372619051153
+    },
+    {
+        "stock1": "2615",
+        "stock2": "2612",
+        "similarity_score": 0.33965365062514086
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2606",
+        "similarity_score": 0.33948592381948506
+    },
+    {
+        "stock1": "6684",
+        "stock2": "2603",
+        "similarity_score": 0.33936278944941195
+    },
+    {
+        "stock1": "4908",
+        "stock2": "8028",
+        "similarity_score": 0.33917347505764284
+    },
+    {
+        "stock1": "3025",
+        "stock2": "2603",
+        "similarity_score": 0.33914317554494605
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2349",
+        "similarity_score": 0.33910052502765403
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8054",
+        "similarity_score": 0.3390013809006541
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8054",
+        "similarity_score": 0.33900122724095927
+    },
+    {
+        "stock1": "6684",
+        "stock2": "2615",
+        "similarity_score": 0.3389559588047932
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6530",
+        "similarity_score": 0.33885029259368804
+    },
+    {
+        "stock1": "3580",
+        "stock2": "6695",
+        "similarity_score": 0.33884621979349555
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6806",
+        "similarity_score": 0.3388294743555065
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6684",
+        "similarity_score": 0.33880752287962207
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2603",
+        "similarity_score": 0.3387614651913296
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6806",
+        "similarity_score": 0.33859432147206275
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2613",
+        "similarity_score": 0.3385915714432544
+    },
+    {
+        "stock1": "2399",
+        "stock2": "8104",
+        "similarity_score": 0.33855920249203797
+    },
+    {
+        "stock1": "6442",
+        "stock2": "6806",
+        "similarity_score": 0.338511916248785
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6684",
+        "similarity_score": 0.3382974468667667
+    },
+    {
+        "stock1": "3231",
+        "stock2": "4908",
+        "similarity_score": 0.33828244116442524
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2377",
+        "similarity_score": 0.3381481285103357
+    },
+    {
+        "stock1": "3017",
+        "stock2": "8054",
+        "similarity_score": 0.3381185859854473
+    },
+    {
+        "stock1": "8071",
+        "stock2": "8054",
+        "similarity_score": 0.33806938959347016
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2603",
+        "similarity_score": 0.33797234497412365
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8054",
+        "similarity_score": 0.33796367455728216
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6462",
+        "similarity_score": 0.3378974194573957
+    },
+    {
+        "stock1": "2376",
+        "stock2": "3231",
+        "similarity_score": 0.33788109408782246
+    },
+    {
+        "stock1": "6442",
+        "stock2": "6243",
+        "similarity_score": 0.3378079296301379
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6869",
+        "similarity_score": 0.33776124212180025
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2603",
+        "similarity_score": 0.33776086040414344
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2637",
+        "similarity_score": 0.33748327814907125
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3073",
+        "similarity_score": 0.3374271010069977
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6451",
+        "similarity_score": 0.3373999306780311
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6462",
+        "similarity_score": 0.337220797139779
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2349",
+        "similarity_score": 0.3371658054028646
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3025",
+        "similarity_score": 0.3371048201059584
+    },
+    {
+        "stock1": "3017",
+        "stock2": "5392",
+        "similarity_score": 0.3370239050648134
+    },
+    {
+        "stock1": "5443",
+        "stock2": "3050",
+        "similarity_score": 0.33694376094938716
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6695",
+        "similarity_score": 0.33690076010418907
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6806",
+        "similarity_score": 0.3368606925660372
+    },
+    {
+        "stock1": "6684",
+        "stock2": "2613",
+        "similarity_score": 0.3367196836467881
+    },
+    {
+        "stock1": "6530",
+        "stock2": "2612",
+        "similarity_score": 0.33669817774276073
+    },
+    {
+        "stock1": "3338",
+        "stock2": "5386",
+        "similarity_score": 0.3366722222336889
+    },
+    {
+        "stock1": "8054",
+        "stock2": "2603",
+        "similarity_score": 0.33652180868974424
+    },
+    {
+        "stock1": "2376",
+        "stock2": "3025",
+        "similarity_score": 0.3365007859868923
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6215",
+        "similarity_score": 0.3364758188205815
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2349",
+        "similarity_score": 0.3362703617373547
+    },
+    {
+        "stock1": "6684",
+        "stock2": "5608",
+        "similarity_score": 0.33625566365834864
+    },
+    {
+        "stock1": "5386",
+        "stock2": "6530",
+        "similarity_score": 0.3362378349993624
+    },
+    {
+        "stock1": "4979",
+        "stock2": "6243",
+        "similarity_score": 0.3361610411269772
+    },
+    {
+        "stock1": "4908",
+        "stock2": "3450",
+        "similarity_score": 0.3361088056201453
+    },
+    {
+        "stock1": "6188",
+        "stock2": "6684",
+        "similarity_score": 0.3359553719844966
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6869",
+        "similarity_score": 0.33594388646947837
+    },
+    {
+        "stock1": "3515",
+        "stock2": "1597",
+        "similarity_score": 0.3359315393497349
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2605",
+        "similarity_score": 0.3359136954757308
+    },
+    {
+        "stock1": "8064",
+        "stock2": "2612",
+        "similarity_score": 0.33589307150632475
+    },
+    {
+        "stock1": "6188",
+        "stock2": "8054",
+        "similarity_score": 0.33566319462586663
+    },
+    {
+        "stock1": "3515",
+        "stock2": "4908",
+        "similarity_score": 0.3356236280625905
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8028",
+        "similarity_score": 0.335618204375002
+    },
+    {
+        "stock1": "2467",
+        "stock2": "6243",
+        "similarity_score": 0.3355894874952582
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6451",
+        "similarity_score": 0.3354559954974414
+    },
+    {
+        "stock1": "4979",
+        "stock2": "2603",
+        "similarity_score": 0.33544035466034383
+    },
+    {
+        "stock1": "3535",
+        "stock2": "8054",
+        "similarity_score": 0.335437553695983
+    },
+    {
+        "stock1": "2349",
+        "stock2": "2637",
+        "similarity_score": 0.33543294470626567
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6451",
+        "similarity_score": 0.33524876761229544
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2609",
+        "similarity_score": 0.33515799463484763
+    },
+    {
+        "stock1": "3017",
+        "stock2": "8374",
+        "similarity_score": 0.3350927046894655
+    },
+    {
+        "stock1": "3025",
+        "stock2": "5608",
+        "similarity_score": 0.3350850906435903
+    },
+    {
+        "stock1": "6451",
+        "stock2": "8054",
+        "similarity_score": 0.33505758954332926
+    },
+    {
+        "stock1": "3025",
+        "stock2": "3663",
+        "similarity_score": 0.33498974899338735
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6869",
+        "similarity_score": 0.33494901236741914
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6215",
+        "similarity_score": 0.3347908700217197
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6684",
+        "similarity_score": 0.334668565924566
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6462",
+        "similarity_score": 0.334619290789411
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2349",
+        "similarity_score": 0.3345945299633102
+    },
+    {
+        "stock1": "2376",
+        "stock2": "4562",
+        "similarity_score": 0.3343979281547687
+    },
+    {
+        "stock1": "6640",
+        "stock2": "6869",
+        "similarity_score": 0.3343851358719771
+    },
+    {
+        "stock1": "8054",
+        "stock2": "8440",
+        "similarity_score": 0.33430547215169015
+    },
+    {
+        "stock1": "3163",
+        "stock2": "4979",
+        "similarity_score": 0.33403466243416835
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2637",
+        "similarity_score": 0.33402765470313595
+    },
+    {
+        "stock1": "2359",
+        "stock2": "8054",
+        "similarity_score": 0.333993841891179
+    },
+    {
+        "stock1": "3025",
+        "stock2": "2615",
+        "similarity_score": 0.3338787180548477
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2609",
+        "similarity_score": 0.3338182220824956
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3450",
+        "similarity_score": 0.3337200903454157
+    },
+    {
+        "stock1": "6640",
+        "stock2": "8104",
+        "similarity_score": 0.3335221480519397
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3450",
+        "similarity_score": 0.33347973393822805
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2465",
+        "similarity_score": 0.3334532707134947
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6869",
+        "similarity_score": 0.3333448896612471
+    },
+    {
+        "stock1": "5386",
+        "stock2": "2465",
+        "similarity_score": 0.3332311352184944
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3515",
+        "similarity_score": 0.3332246097726108
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2606",
+        "similarity_score": 0.33314502588347705
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8054",
+        "similarity_score": 0.33311881664908916
+    },
+    {
+        "stock1": "8374",
+        "stock2": "4979",
+        "similarity_score": 0.3327113606645793
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3450",
+        "similarity_score": 0.33249660003444936
+    },
+    {
+        "stock1": "6442",
+        "stock2": "2467",
+        "similarity_score": 0.33248476757308076
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2605",
+        "similarity_score": 0.3324685041511893
+    },
+    {
+        "stock1": "3017",
+        "stock2": "5608",
+        "similarity_score": 0.3324059029784616
+    },
+    {
+        "stock1": "6215",
+        "stock2": "4908",
+        "similarity_score": 0.3323961678111092
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3025",
+        "similarity_score": 0.3323884521911764
+    },
+    {
+        "stock1": "2613",
+        "stock2": "2606",
+        "similarity_score": 0.332385065401818
+    },
+    {
+        "stock1": "3580",
+        "stock2": "8028",
+        "similarity_score": 0.33227890117819636
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6806",
+        "similarity_score": 0.3320597119241411
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6684",
+        "similarity_score": 0.33181166311732246
+    },
+    {
+        "stock1": "6442",
+        "stock2": "8054",
+        "similarity_score": 0.3317978094698822
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2606",
+        "similarity_score": 0.33177556031310984
+    },
+    {
+        "stock1": "6215",
+        "stock2": "6442",
+        "similarity_score": 0.3317273005770957
+    },
+    {
+        "stock1": "5386",
+        "stock2": "4979",
+        "similarity_score": 0.33167734616699107
+    },
+    {
+        "stock1": "4755",
+        "stock2": "4908",
+        "similarity_score": 0.33167726314298485
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2609",
+        "similarity_score": 0.3315674616497567
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3025",
+        "similarity_score": 0.33155737802053975
+    },
+    {
+        "stock1": "3163",
+        "stock2": "3535",
+        "similarity_score": 0.3315271722756163
+    },
+    {
+        "stock1": "6442",
+        "stock2": "6695",
+        "similarity_score": 0.33149197412297
+    },
+    {
+        "stock1": "3363",
+        "stock2": "2606",
+        "similarity_score": 0.33148060853089845
+    },
+    {
+        "stock1": "6451",
+        "stock2": "6684",
+        "similarity_score": 0.33144054586533545
+    },
+    {
+        "stock1": "2377",
+        "stock2": "2374",
+        "similarity_score": 0.33141544641684567
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2467",
+        "similarity_score": 0.3313176887366017
+    },
+    {
+        "stock1": "2465",
+        "stock2": "2615",
+        "similarity_score": 0.3313025806784875
+    },
+    {
+        "stock1": "8071",
+        "stock2": "8104",
+        "similarity_score": 0.33128318694140235
+    },
+    {
+        "stock1": "8234",
+        "stock2": "8054",
+        "similarity_score": 0.33127429629029237
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6806",
+        "similarity_score": 0.3312280179341424
+    },
+    {
+        "stock1": "2399",
+        "stock2": "4908",
+        "similarity_score": 0.3312205505416773
+    },
+    {
+        "stock1": "2425",
+        "stock2": "3450",
+        "similarity_score": 0.33116034551729073
+    },
+    {
+        "stock1": "5443",
+        "stock2": "3073",
+        "similarity_score": 0.3309594984974862
+    },
+    {
+        "stock1": "5443",
+        "stock2": "6640",
+        "similarity_score": 0.3309063477407935
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6215",
+        "similarity_score": 0.3308728129119972
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3017",
+        "similarity_score": 0.33082406735964753
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2606",
+        "similarity_score": 0.330775599662643
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2637",
+        "similarity_score": 0.3307535608516368
+    },
+    {
+        "stock1": "8054",
+        "stock2": "2613",
+        "similarity_score": 0.33074240729357746
+    },
+    {
+        "stock1": "1597",
+        "stock2": "2637",
+        "similarity_score": 0.3307361539398322
+    },
+    {
+        "stock1": "4908",
+        "stock2": "3073",
+        "similarity_score": 0.3307112520619899
+    },
+    {
+        "stock1": "2399",
+        "stock2": "3163",
+        "similarity_score": 0.33060987733061026
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3535",
+        "similarity_score": 0.3305677078094416
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6684",
+        "similarity_score": 0.3304352982439714
+    },
+    {
+        "stock1": "2377",
+        "stock2": "3073",
+        "similarity_score": 0.3303198480431371
+    },
+    {
+        "stock1": "3450",
+        "stock2": "2609",
+        "similarity_score": 0.33019646187836355
+    },
+    {
+        "stock1": "8374",
+        "stock2": "4908",
+        "similarity_score": 0.32993297948743167
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6451",
+        "similarity_score": 0.32986717678685096
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2467",
+        "similarity_score": 0.3298036580565275
+    },
+    {
+        "stock1": "3338",
+        "stock2": "8104",
+        "similarity_score": 0.3298025091522511
+    },
+    {
+        "stock1": "5443",
+        "stock2": "8028",
+        "similarity_score": 0.3295929526796947
+    },
+    {
+        "stock1": "6684",
+        "stock2": "8440",
+        "similarity_score": 0.3295525400060022
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3580",
+        "similarity_score": 0.3294300438528597
+    },
+    {
+        "stock1": "2377",
+        "stock2": "8374",
+        "similarity_score": 0.32942991653069026
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2637",
+        "similarity_score": 0.32923475022867543
+    },
+    {
+        "stock1": "5392",
+        "stock2": "8028",
+        "similarity_score": 0.3292227087278304
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8054",
+        "similarity_score": 0.329217270236602
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2637",
+        "similarity_score": 0.32918343758910074
+    },
+    {
+        "stock1": "3231",
+        "stock2": "8374",
+        "similarity_score": 0.3291829087177741
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6462",
+        "similarity_score": 0.3290724854317788
+    },
+    {
+        "stock1": "2374",
+        "stock2": "4908",
+        "similarity_score": 0.3290568702878476
+    },
+    {
+        "stock1": "3231",
+        "stock2": "3073",
+        "similarity_score": 0.3290512787449754
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3025",
+        "similarity_score": 0.32887843124333604
+    },
+    {
+        "stock1": "2465",
+        "stock2": "4562",
+        "similarity_score": 0.32870003343753956
+    },
+    {
+        "stock1": "3017",
+        "stock2": "8234",
+        "similarity_score": 0.32864779417952156
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2605",
+        "similarity_score": 0.3284600223296053
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3231",
+        "similarity_score": 0.32839440961968464
+    },
+    {
+        "stock1": "3580",
+        "stock2": "2637",
+        "similarity_score": 0.32838245533104393
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6684",
+        "similarity_score": 0.3281346915663944
+    },
+    {
+        "stock1": "2376",
+        "stock2": "2464",
+        "similarity_score": 0.32800436431175134
+    },
+    {
+        "stock1": "6530",
+        "stock2": "8104",
+        "similarity_score": 0.32754692674975217
+    },
+    {
+        "stock1": "1727",
+        "stock2": "4979",
+        "similarity_score": 0.32740189377338486
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2637",
+        "similarity_score": 0.32728020359360915
+    },
+    {
+        "stock1": "3231",
+        "stock2": "3050",
+        "similarity_score": 0.32712397876781196
+    },
+    {
+        "stock1": "6442",
+        "stock2": "6684",
+        "similarity_score": 0.3270819368328666
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3663",
+        "similarity_score": 0.3269687271628833
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2637",
+        "similarity_score": 0.3269673503140083
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2425",
+        "similarity_score": 0.3268801831292824
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2637",
+        "similarity_score": 0.32687009316911697
+    },
+    {
+        "stock1": "2464",
+        "stock2": "3163",
+        "similarity_score": 0.32686750380280666
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6869",
+        "similarity_score": 0.32679369884841614
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3025",
+        "similarity_score": 0.32679328735433427
+    },
+    {
+        "stock1": "6230",
+        "stock2": "8028",
+        "similarity_score": 0.3267237384602094
+    },
+    {
+        "stock1": "6442",
+        "stock2": "8064",
+        "similarity_score": 0.3266622540832266
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6530",
+        "similarity_score": 0.32651592359034326
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2467",
+        "similarity_score": 0.32635532157967984
+    },
+    {
+        "stock1": "6243",
+        "stock2": "2612",
+        "similarity_score": 0.3263084720429452
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6442",
+        "similarity_score": 0.32624130809047114
+    },
+    {
+        "stock1": "2464",
+        "stock2": "3025",
+        "similarity_score": 0.3261099906782723
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2365",
+        "similarity_score": 0.3261018896669917
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3231",
+        "similarity_score": 0.3261018202813424
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6243",
+        "similarity_score": 0.32603139750858795
+    },
+    {
+        "stock1": "8054",
+        "stock2": "5608",
+        "similarity_score": 0.32595466555888825
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2606",
+        "similarity_score": 0.3259209001637364
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2637",
+        "similarity_score": 0.3258822699147084
+    },
+    {
+        "stock1": "3163",
+        "stock2": "8028",
+        "similarity_score": 0.3258352624334102
+    },
+    {
+        "stock1": "6462",
+        "stock2": "6869",
+        "similarity_score": 0.32579559904738575
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6806",
+        "similarity_score": 0.3257468454863297
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6869",
+        "similarity_score": 0.32574320602071016
+    },
+    {
+        "stock1": "3324",
+        "stock2": "1711",
+        "similarity_score": 0.3257059273123808
+    },
+    {
+        "stock1": "2359",
+        "stock2": "6684",
+        "similarity_score": 0.32564918442033264
+    },
+    {
+        "stock1": "3324",
+        "stock2": "4562",
+        "similarity_score": 0.3256408111991549
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6442",
+        "similarity_score": 0.3255601860116017
+    },
+    {
+        "stock1": "6530",
+        "stock2": "6451",
+        "similarity_score": 0.32539921291070706
+    },
+    {
+        "stock1": "6125",
+        "stock2": "8104",
+        "similarity_score": 0.3253705376252009
+    },
+    {
+        "stock1": "8064",
+        "stock2": "8104",
+        "similarity_score": 0.3252428275796515
+    },
+    {
+        "stock1": "3163",
+        "stock2": "8054",
+        "similarity_score": 0.32520223150240674
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6530",
+        "similarity_score": 0.3250895524863158
+    },
+    {
+        "stock1": "6869",
+        "stock2": "2612",
+        "similarity_score": 0.3248795255432904
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2606",
+        "similarity_score": 0.3247003224848316
+    },
+    {
+        "stock1": "2376",
+        "stock2": "3163",
+        "similarity_score": 0.32462920049367255
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6442",
+        "similarity_score": 0.3245253116969581
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6869",
+        "similarity_score": 0.3243249307655011
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2465",
+        "similarity_score": 0.32418983776831506
+    },
+    {
+        "stock1": "2465",
+        "stock2": "2606",
+        "similarity_score": 0.3240936849000059
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6442",
+        "similarity_score": 0.32403973594021557
+    },
+    {
+        "stock1": "3450",
+        "stock2": "2612",
+        "similarity_score": 0.3237574413753133
+    },
+    {
+        "stock1": "3535",
+        "stock2": "6684",
+        "similarity_score": 0.3237501967657816
+    },
+    {
+        "stock1": "3450",
+        "stock2": "2349",
+        "similarity_score": 0.3237017218504936
+    },
+    {
+        "stock1": "3663",
+        "stock2": "8104",
+        "similarity_score": 0.323644468866948
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2464",
+        "similarity_score": 0.3235227146233274
+    },
+    {
+        "stock1": "8374",
+        "stock2": "6442",
+        "similarity_score": 0.32333367541575936
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6442",
+        "similarity_score": 0.3233293095459395
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2605",
+        "similarity_score": 0.32329645721700095
+    },
+    {
+        "stock1": "2376",
+        "stock2": "8071",
+        "similarity_score": 0.3232832207597664
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2637",
+        "similarity_score": 0.3231871387900102
+    },
+    {
+        "stock1": "6125",
+        "stock2": "2465",
+        "similarity_score": 0.32313079472673967
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6243",
+        "similarity_score": 0.32301579635272326
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6530",
+        "similarity_score": 0.3228405176661511
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6442",
+        "similarity_score": 0.3226976907934505
+    },
+    {
+        "stock1": "4562",
+        "stock2": "6869",
+        "similarity_score": 0.32268897908774136
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2606",
+        "similarity_score": 0.32267672541735765
+    },
+    {
+        "stock1": "5386",
+        "stock2": "3231",
+        "similarity_score": 0.3226481324515238
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3580",
+        "similarity_score": 0.32263781769155336
+    },
+    {
+        "stock1": "6869",
+        "stock2": "8440",
+        "similarity_score": 0.32248414584372886
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6215",
+        "similarity_score": 0.3224741981215295
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2605",
+        "similarity_score": 0.32237443717529785
+    },
+    {
+        "stock1": "2465",
+        "stock2": "2603",
+        "similarity_score": 0.3223107745255742
+    },
+    {
+        "stock1": "2365",
+        "stock2": "2637",
+        "similarity_score": 0.32198832665886895
+    },
+    {
+        "stock1": "6530",
+        "stock2": "2467",
+        "similarity_score": 0.32197611777749396
+    },
+    {
+        "stock1": "6451",
+        "stock2": "3073",
+        "similarity_score": 0.3216885500302663
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8054",
+        "similarity_score": 0.32167436694396934
+    },
+    {
+        "stock1": "2465",
+        "stock2": "2637",
+        "similarity_score": 0.32164069496849446
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6215",
+        "similarity_score": 0.3214198745172641
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3163",
+        "similarity_score": 0.32131172855817125
+    },
+    {
+        "stock1": "2374",
+        "stock2": "3450",
+        "similarity_score": 0.32105141231587525
+    },
+    {
+        "stock1": "6442",
+        "stock2": "3663",
+        "similarity_score": 0.32101311083199124
+    },
+    {
+        "stock1": "2467",
+        "stock2": "8028",
+        "similarity_score": 0.3210111054319843
+    },
+    {
+        "stock1": "4562",
+        "stock2": "8104",
+        "similarity_score": 0.3209841349790888
+    },
+    {
+        "stock1": "2603",
+        "stock2": "2612",
+        "similarity_score": 0.3209500864596486
+    },
+    {
+        "stock1": "3663",
+        "stock2": "6462",
+        "similarity_score": 0.3209491397900431
+    },
+    {
+        "stock1": "6695",
+        "stock2": "6869",
+        "similarity_score": 0.3209431714766123
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6869",
+        "similarity_score": 0.32088318677281563
+    },
+    {
+        "stock1": "2425",
+        "stock2": "8028",
+        "similarity_score": 0.3208726498370337
+    },
+    {
+        "stock1": "3363",
+        "stock2": "6869",
+        "similarity_score": 0.3204974211472202
+    },
+    {
+        "stock1": "2465",
+        "stock2": "5608",
+        "similarity_score": 0.32048337506883856
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2615",
+        "similarity_score": 0.3204313474045287
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6451",
+        "similarity_score": 0.32039531557415013
+    },
+    {
+        "stock1": "4562",
+        "stock2": "3163",
+        "similarity_score": 0.3201110418182935
+    },
+    {
+        "stock1": "8071",
+        "stock2": "2637",
+        "similarity_score": 0.3201084108917279
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6869",
+        "similarity_score": 0.32004254611001937
+    },
+    {
+        "stock1": "6215",
+        "stock2": "2612",
+        "similarity_score": 0.320030260127565
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2606",
+        "similarity_score": 0.3199615628710272
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3450",
+        "similarity_score": 0.3198628821892591
+    },
+    {
+        "stock1": "2467",
+        "stock2": "3073",
+        "similarity_score": 0.3198109755228469
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3163",
+        "similarity_score": 0.3197906218060141
+    },
+    {
+        "stock1": "8104",
+        "stock2": "5608",
+        "similarity_score": 0.31977820065183055
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6462",
+        "similarity_score": 0.3196696198899563
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2612",
+        "similarity_score": 0.3196486704318824
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6188",
+        "similarity_score": 0.31946666484657776
+    },
+    {
+        "stock1": "3450",
+        "stock2": "8054",
+        "similarity_score": 0.3193794554712969
+    },
+    {
+        "stock1": "6530",
+        "stock2": "3535",
+        "similarity_score": 0.3193128966726429
+    },
+    {
+        "stock1": "4979",
+        "stock2": "6530",
+        "similarity_score": 0.3192440363438167
+    },
+    {
+        "stock1": "8104",
+        "stock2": "6869",
+        "similarity_score": 0.31903610385313647
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6530",
+        "similarity_score": 0.319004170103424
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6243",
+        "similarity_score": 0.31899892879556513
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6442",
+        "similarity_score": 0.31893595066135516
+    },
+    {
+        "stock1": "4755",
+        "stock2": "5443",
+        "similarity_score": 0.318739907503925
+    },
+    {
+        "stock1": "3324",
+        "stock2": "1727",
+        "similarity_score": 0.31870848957921344
+    },
+    {
+        "stock1": "3363",
+        "stock2": "6684",
+        "similarity_score": 0.3185839910398751
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2637",
+        "similarity_score": 0.31856880406060206
+    },
+    {
+        "stock1": "1711",
+        "stock2": "6462",
+        "similarity_score": 0.3185530987099814
+    },
+    {
+        "stock1": "4562",
+        "stock2": "2637",
+        "similarity_score": 0.3185299097405198
+    },
+    {
+        "stock1": "3163",
+        "stock2": "8104",
+        "similarity_score": 0.31840780261610874
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3025",
+        "similarity_score": 0.31835398778027935
+    },
+    {
+        "stock1": "5392",
+        "stock2": "2606",
+        "similarity_score": 0.31824386428954854
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6684",
+        "similarity_score": 0.31816066405924653
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6462",
+        "similarity_score": 0.31805601626079316
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6869",
+        "similarity_score": 0.31790318035229737
+    },
+    {
+        "stock1": "6442",
+        "stock2": "3535",
+        "similarity_score": 0.3178329824448395
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3363",
+        "similarity_score": 0.3178026231766204
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6451",
+        "similarity_score": 0.31778539394837624
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6640",
+        "similarity_score": 0.3177567087217891
+    },
+    {
+        "stock1": "2399",
+        "stock2": "2376",
+        "similarity_score": 0.317706446209193
+    },
+    {
+        "stock1": "3450",
+        "stock2": "6695",
+        "similarity_score": 0.3176780399995207
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6530",
+        "similarity_score": 0.3174527547687109
+    },
+    {
+        "stock1": "3017",
+        "stock2": "3025",
+        "similarity_score": 0.3172658711941489
+    },
+    {
+        "stock1": "3017",
+        "stock2": "8440",
+        "similarity_score": 0.3172503862128539
+    },
+    {
+        "stock1": "1711",
+        "stock2": "8104",
+        "similarity_score": 0.31724040288200545
+    },
+    {
+        "stock1": "3515",
+        "stock2": "6869",
+        "similarity_score": 0.31716053708568764
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2637",
+        "similarity_score": 0.31712943194376225
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2603",
+        "similarity_score": 0.3171010592988187
+    },
+    {
+        "stock1": "6442",
+        "stock2": "2615",
+        "similarity_score": 0.31693342257645196
+    },
+    {
+        "stock1": "6806",
+        "stock2": "2613",
+        "similarity_score": 0.3168007544489184
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3025",
+        "similarity_score": 0.31671754715985745
+    },
+    {
+        "stock1": "2376",
+        "stock2": "2374",
+        "similarity_score": 0.3166696901467769
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6640",
+        "similarity_score": 0.31665655911601404
+    },
+    {
+        "stock1": "4979",
+        "stock2": "6640",
+        "similarity_score": 0.3166348835361311
+    },
+    {
+        "stock1": "3017",
+        "stock2": "6150",
+        "similarity_score": 0.31648941490485977
+    },
+    {
+        "stock1": "6462",
+        "stock2": "2603",
+        "similarity_score": 0.3164578805844613
+    },
+    {
+        "stock1": "3338",
+        "stock2": "2376",
+        "similarity_score": 0.3163988785901854
+    },
+    {
+        "stock1": "4908",
+        "stock2": "8064",
+        "similarity_score": 0.3163324508665984
+    },
+    {
+        "stock1": "6150",
+        "stock2": "2603",
+        "similarity_score": 0.3163067398111187
+    },
+    {
+        "stock1": "2365",
+        "stock2": "8028",
+        "similarity_score": 0.31627567546043994
+    },
+    {
+        "stock1": "8054",
+        "stock2": "2615",
+        "similarity_score": 0.31603433112892076
+    },
+    {
+        "stock1": "4755",
+        "stock2": "8028",
+        "similarity_score": 0.31603393847906563
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3450",
+        "similarity_score": 0.31587836639568806
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3450",
+        "similarity_score": 0.31577378124829475
+    },
+    {
+        "stock1": "3231",
+        "stock2": "2606",
+        "similarity_score": 0.31569182517311317
+    },
+    {
+        "stock1": "4562",
+        "stock2": "4908",
+        "similarity_score": 0.3155608866846786
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6640",
+        "similarity_score": 0.31549942489203187
+    },
+    {
+        "stock1": "3363",
+        "stock2": "8054",
+        "similarity_score": 0.3153163818781419
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6869",
+        "similarity_score": 0.3153129842029231
+    },
+    {
+        "stock1": "6451",
+        "stock2": "6640",
+        "similarity_score": 0.3152494413069007
+    },
+    {
+        "stock1": "3535",
+        "stock2": "6640",
+        "similarity_score": 0.31491211771650895
+    },
+    {
+        "stock1": "3073",
+        "stock2": "6869",
+        "similarity_score": 0.3148929286416333
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6442",
+        "similarity_score": 0.3148845070257038
+    },
+    {
+        "stock1": "2465",
+        "stock2": "3163",
+        "similarity_score": 0.31464180020980886
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6695",
+        "similarity_score": 0.31454048399158685
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6869",
+        "similarity_score": 0.31449475202113325
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3231",
+        "similarity_score": 0.31444937187544486
+    },
+    {
+        "stock1": "3163",
+        "stock2": "3073",
+        "similarity_score": 0.3143905740414248
+    },
+    {
+        "stock1": "6215",
+        "stock2": "3450",
+        "similarity_score": 0.31431445939379044
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6462",
+        "similarity_score": 0.3142451762518848
+    },
+    {
+        "stock1": "6684",
+        "stock2": "2349",
+        "similarity_score": 0.31421317103595325
+    },
+    {
+        "stock1": "8234",
+        "stock2": "2606",
+        "similarity_score": 0.3141959141419689
+    },
+    {
+        "stock1": "2376",
+        "stock2": "3663",
+        "similarity_score": 0.31416131224891675
+    },
+    {
+        "stock1": "1597",
+        "stock2": "8054",
+        "similarity_score": 0.31414300058061495
+    },
+    {
+        "stock1": "2359",
+        "stock2": "3450",
+        "similarity_score": 0.31408030529360925
+    },
+    {
+        "stock1": "4979",
+        "stock2": "8028",
+        "similarity_score": 0.31404715893615837
+    },
+    {
+        "stock1": "2374",
+        "stock2": "6462",
+        "similarity_score": 0.3140234166608989
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2612",
+        "similarity_score": 0.31400025993460096
+    },
+    {
+        "stock1": "8054",
+        "stock2": "2349",
+        "similarity_score": 0.31392838515068483
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2377",
+        "similarity_score": 0.3138165431995327
+    },
+    {
+        "stock1": "3580",
+        "stock2": "8054",
+        "similarity_score": 0.31356996414436894
+    },
+    {
+        "stock1": "6640",
+        "stock2": "8028",
+        "similarity_score": 0.31353974056728506
+    },
+    {
+        "stock1": "3324",
+        "stock2": "3663",
+        "similarity_score": 0.31353919872125885
+    },
+    {
+        "stock1": "3450",
+        "stock2": "2613",
+        "similarity_score": 0.31349806136053693
+    },
+    {
+        "stock1": "3231",
+        "stock2": "8064",
+        "similarity_score": 0.3134729618494748
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3163",
+        "similarity_score": 0.31346867560484487
+    },
+    {
+        "stock1": "3580",
+        "stock2": "6640",
+        "similarity_score": 0.3133592150367831
+    },
+    {
+        "stock1": "3050",
+        "stock2": "2612",
+        "similarity_score": 0.31330072983961804
+    },
+    {
+        "stock1": "8071",
+        "stock2": "3450",
+        "similarity_score": 0.3132917929892957
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6806",
+        "similarity_score": 0.31325753425593594
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6530",
+        "similarity_score": 0.3132136102463543
+    },
+    {
+        "stock1": "2425",
+        "stock2": "2606",
+        "similarity_score": 0.3131594692550497
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6462",
+        "similarity_score": 0.3129849374026497
+    },
+    {
+        "stock1": "3231",
+        "stock2": "2615",
+        "similarity_score": 0.31295277547131123
+    },
+    {
+        "stock1": "8054",
+        "stock2": "2609",
+        "similarity_score": 0.31294014549611343
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2399",
+        "similarity_score": 0.31290678363126023
+    },
+    {
+        "stock1": "1597",
+        "stock2": "3163",
+        "similarity_score": 0.3128820051371922
+    },
+    {
+        "stock1": "2467",
+        "stock2": "6695",
+        "similarity_score": 0.3125802935181224
+    },
+    {
+        "stock1": "3450",
+        "stock2": "8028",
+        "similarity_score": 0.3125168638699618
+    },
+    {
+        "stock1": "5443",
+        "stock2": "6695",
+        "similarity_score": 0.3124818414831431
+    },
+    {
+        "stock1": "3231",
+        "stock2": "2637",
+        "similarity_score": 0.3124334684730048
+    },
+    {
+        "stock1": "3163",
+        "stock2": "3580",
+        "similarity_score": 0.3123294134588366
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6530",
+        "similarity_score": 0.3122610113968171
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6684",
+        "similarity_score": 0.312227188203743
+    },
+    {
+        "stock1": "8234",
+        "stock2": "3163",
+        "similarity_score": 0.3122020218702408
+    },
+    {
+        "stock1": "8374",
+        "stock2": "2637",
+        "similarity_score": 0.31207965534852583
+    },
+    {
+        "stock1": "2464",
+        "stock2": "2606",
+        "similarity_score": 0.31204867421096694
+    },
+    {
+        "stock1": "3017",
+        "stock2": "8028",
+        "similarity_score": 0.31204051972947594
+    },
+    {
+        "stock1": "4908",
+        "stock2": "3535",
+        "similarity_score": 0.3119218264206106
+    },
+    {
+        "stock1": "4979",
+        "stock2": "6869",
+        "similarity_score": 0.31190369297784654
+    },
+    {
+        "stock1": "4908",
+        "stock2": "3050",
+        "similarity_score": 0.3118008092655523
+    },
+    {
+        "stock1": "8071",
+        "stock2": "6530",
+        "similarity_score": 0.31175203590820405
+    },
+    {
+        "stock1": "2465",
+        "stock2": "8071",
+        "similarity_score": 0.3116872023857821
+    },
+    {
+        "stock1": "3073",
+        "stock2": "2637",
+        "similarity_score": 0.3114851195797791
+    },
+    {
+        "stock1": "2365",
+        "stock2": "8054",
+        "similarity_score": 0.311403677147348
+    },
+    {
+        "stock1": "8028",
+        "stock2": "2606",
+        "similarity_score": 0.3112352279845979
+    },
+    {
+        "stock1": "3025",
+        "stock2": "2467",
+        "similarity_score": 0.31120474781661317
+    },
+    {
+        "stock1": "8054",
+        "stock2": "2605",
+        "similarity_score": 0.31118344336276915
+    },
+    {
+        "stock1": "2465",
+        "stock2": "8234",
+        "similarity_score": 0.3110844580850684
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6640",
+        "similarity_score": 0.3110495988085189
+    },
+    {
+        "stock1": "6451",
+        "stock2": "6695",
+        "similarity_score": 0.3109612041363089
+    },
+    {
+        "stock1": "6530",
+        "stock2": "8440",
+        "similarity_score": 0.3108989048673692
+    },
+    {
+        "stock1": "6640",
+        "stock2": "8440",
+        "similarity_score": 0.3105997521241183
+    },
+    {
+        "stock1": "2467",
+        "stock2": "2606",
+        "similarity_score": 0.3105278847843559
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2606",
+        "similarity_score": 0.3105232374618991
+    },
+    {
+        "stock1": "3363",
+        "stock2": "6640",
+        "similarity_score": 0.31028881478206516
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2612",
+        "similarity_score": 0.31026429922783305
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2467",
+        "similarity_score": 0.31012861031122674
+    },
+    {
+        "stock1": "3163",
+        "stock2": "8440",
+        "similarity_score": 0.3101165577433614
+    },
+    {
+        "stock1": "8374",
+        "stock2": "3163",
+        "similarity_score": 0.3100869993876556
+    },
+    {
+        "stock1": "6150",
+        "stock2": "3163",
+        "similarity_score": 0.3100541407060236
+    },
+    {
+        "stock1": "2365",
+        "stock2": "3163",
+        "similarity_score": 0.3100427538098716
+    },
+    {
+        "stock1": "2467",
+        "stock2": "3050",
+        "similarity_score": 0.3099594154785133
+    },
+    {
+        "stock1": "3450",
+        "stock2": "2605",
+        "similarity_score": 0.3099184486963321
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6640",
+        "similarity_score": 0.3096077467257243
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2464",
+        "similarity_score": 0.3095731338051713
+    },
+    {
+        "stock1": "4979",
+        "stock2": "3073",
+        "similarity_score": 0.30920626331634177
+    },
+    {
+        "stock1": "2464",
+        "stock2": "2467",
+        "similarity_score": 0.3091457520673243
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6462",
+        "similarity_score": 0.30898459663248595
+    },
+    {
+        "stock1": "2612",
+        "stock2": "2637",
+        "similarity_score": 0.30896658263298143
+    },
+    {
+        "stock1": "3450",
+        "stock2": "3073",
+        "similarity_score": 0.30881485177639434
+    },
+    {
+        "stock1": "2606",
+        "stock2": "2605",
+        "similarity_score": 0.30874868867784905
+    },
+    {
+        "stock1": "3324",
+        "stock2": "2374",
+        "similarity_score": 0.308748416257467
+    },
+    {
+        "stock1": "6640",
+        "stock2": "6462",
+        "similarity_score": 0.30867925904783844
+    },
+    {
+        "stock1": "4755",
+        "stock2": "6530",
+        "similarity_score": 0.30867657587024755
+    },
+    {
+        "stock1": "6442",
+        "stock2": "3050",
+        "similarity_score": 0.30864921283224334
+    },
+    {
+        "stock1": "2376",
+        "stock2": "2603",
+        "similarity_score": 0.30860722206626984
+    },
+    {
+        "stock1": "2467",
+        "stock2": "6869",
+        "similarity_score": 0.308603329569245
+    },
+    {
+        "stock1": "8054",
+        "stock2": "6869",
+        "similarity_score": 0.30860177957303125
+    },
+    {
+        "stock1": "6640",
+        "stock2": "8054",
+        "similarity_score": 0.3085822818316977
+    },
+    {
+        "stock1": "8440",
+        "stock2": "2606",
+        "similarity_score": 0.3085293491285333
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6530",
+        "similarity_score": 0.3084875259027043
+    },
+    {
+        "stock1": "6442",
+        "stock2": "8028",
+        "similarity_score": 0.30843590130176346
+    },
+    {
+        "stock1": "3535",
+        "stock2": "2606",
+        "similarity_score": 0.3082686917779448
+    },
+    {
+        "stock1": "4908",
+        "stock2": "6530",
+        "similarity_score": 0.3082490179344588
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6806",
+        "similarity_score": 0.3081791793985885
+    },
+    {
+        "stock1": "6684",
+        "stock2": "2609",
+        "similarity_score": 0.30815533664422373
+    },
+    {
+        "stock1": "1711",
+        "stock2": "2376",
+        "similarity_score": 0.30799688203704
+    },
+    {
+        "stock1": "2467",
+        "stock2": "8054",
+        "similarity_score": 0.3079903125507438
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6442",
+        "similarity_score": 0.3079888804120135
+    },
+    {
+        "stock1": "2464",
+        "stock2": "8028",
+        "similarity_score": 0.30795815670916493
+    },
+    {
+        "stock1": "3163",
+        "stock2": "3025",
+        "similarity_score": 0.3079310995134125
+    },
+    {
+        "stock1": "1711",
+        "stock2": "3231",
+        "similarity_score": 0.30789736268642504
+    },
+    {
+        "stock1": "5392",
+        "stock2": "3025",
+        "similarity_score": 0.30782446588794515
+    },
+    {
+        "stock1": "3338",
+        "stock2": "3324",
+        "similarity_score": 0.30775472673422627
+    },
+    {
+        "stock1": "6125",
+        "stock2": "3450",
+        "similarity_score": 0.3076849952999646
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2359",
+        "similarity_score": 0.307473514484397
+    },
+    {
+        "stock1": "3450",
+        "stock2": "3663",
+        "similarity_score": 0.30741288739465084
+    },
+    {
+        "stock1": "2377",
+        "stock2": "3163",
+        "similarity_score": 0.3072186776311221
+    },
+    {
+        "stock1": "1727",
+        "stock2": "6640",
+        "similarity_score": 0.3071556993867558
+    },
+    {
+        "stock1": "2399",
+        "stock2": "6640",
+        "similarity_score": 0.3069706508398692
+    },
+    {
+        "stock1": "2465",
+        "stock2": "2464",
+        "similarity_score": 0.3069118241498435
+    },
+    {
+        "stock1": "3025",
+        "stock2": "8440",
+        "similarity_score": 0.30687278780917765
+    },
+    {
+        "stock1": "6640",
+        "stock2": "2609",
+        "similarity_score": 0.3068593941655432
+    },
+    {
+        "stock1": "5392",
+        "stock2": "6806",
+        "similarity_score": 0.306769043947567
+    },
+    {
+        "stock1": "6462",
+        "stock2": "2615",
+        "similarity_score": 0.30661876740036953
+    },
+    {
+        "stock1": "2377",
+        "stock2": "8064",
+        "similarity_score": 0.3065785598860772
+    },
+    {
+        "stock1": "8064",
+        "stock2": "6640",
+        "similarity_score": 0.3064666712619482
+    },
+    {
+        "stock1": "3231",
+        "stock2": "2603",
+        "similarity_score": 0.306444360960292
+    },
+    {
+        "stock1": "6462",
+        "stock2": "5608",
+        "similarity_score": 0.3063042525945356
+    },
+    {
+        "stock1": "6150",
+        "stock2": "8028",
+        "similarity_score": 0.306288906261246
+    },
+    {
+        "stock1": "2377",
+        "stock2": "6869",
+        "similarity_score": 0.3061646881234101
+    },
+    {
+        "stock1": "2359",
+        "stock2": "2606",
+        "similarity_score": 0.30610370102157053
+    },
+    {
+        "stock1": "6243",
+        "stock2": "6869",
+        "similarity_score": 0.30601850844928574
+    },
+    {
+        "stock1": "6188",
+        "stock2": "3025",
+        "similarity_score": 0.3060160336130402
+    },
+    {
+        "stock1": "6442",
+        "stock2": "2606",
+        "similarity_score": 0.3060025902472591
+    },
+    {
+        "stock1": "2376",
+        "stock2": "6640",
+        "similarity_score": 0.30599957362668473
+    },
+    {
+        "stock1": "6125",
+        "stock2": "6462",
+        "similarity_score": 0.3058420833852597
+    },
+    {
+        "stock1": "6442",
+        "stock2": "8440",
+        "similarity_score": 0.305681399146067
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3163",
+        "similarity_score": 0.3055816379857512
+    },
+    {
+        "stock1": "6530",
+        "stock2": "5443",
+        "similarity_score": 0.30545332709567463
+    },
+    {
+        "stock1": "6230",
+        "stock2": "6442",
+        "similarity_score": 0.3054083983063827
+    },
+    {
+        "stock1": "3324",
+        "stock2": "6869",
+        "similarity_score": 0.30537246123713785
+    },
+    {
+        "stock1": "3163",
+        "stock2": "5443",
+        "similarity_score": 0.30537175617562573
+    },
+    {
+        "stock1": "5443",
+        "stock2": "8054",
+        "similarity_score": 0.30536082890474103
+    },
+    {
+        "stock1": "2377",
+        "stock2": "2603",
+        "similarity_score": 0.30533311392887336
+    },
+    {
+        "stock1": "2464",
+        "stock2": "2637",
+        "similarity_score": 0.30518696385193067
+    },
+    {
+        "stock1": "6150",
+        "stock2": "6442",
+        "similarity_score": 0.3051749201293832
+    },
+    {
+        "stock1": "3535",
+        "stock2": "6462",
+        "similarity_score": 0.30516507746663885
+    },
+    {
+        "stock1": "2609",
+        "stock2": "2606",
+        "similarity_score": 0.30513983239487313
+    },
+    {
+        "stock1": "2365",
+        "stock2": "6442",
+        "similarity_score": 0.30507496036089515
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2605",
+        "similarity_score": 0.3049846448204288
+    },
+    {
+        "stock1": "3025",
+        "stock2": "2613",
+        "similarity_score": 0.3049723398561135
+    },
+    {
+        "stock1": "6530",
+        "stock2": "2605",
+        "similarity_score": 0.30497184371825586
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2374",
+        "similarity_score": 0.30494076181801005
+    },
+    {
+        "stock1": "2359",
+        "stock2": "6806",
+        "similarity_score": 0.30487141770560344
+    },
+    {
+        "stock1": "6230",
+        "stock2": "3025",
+        "similarity_score": 0.3046736483721904
+    },
+    {
+        "stock1": "3663",
+        "stock2": "6869",
+        "similarity_score": 0.3046165887652249
+    },
+    {
+        "stock1": "4755",
+        "stock2": "2464",
+        "similarity_score": 0.30458298919807153
+    },
+    {
+        "stock1": "2465",
+        "stock2": "6188",
+        "similarity_score": 0.3045755022276544
+    },
+    {
+        "stock1": "1597",
+        "stock2": "6684",
+        "similarity_score": 0.30452273158645016
+    },
+    {
+        "stock1": "8071",
+        "stock2": "3025",
+        "similarity_score": 0.3044921774261574
+    },
+    {
+        "stock1": "6869",
+        "stock2": "2605",
+        "similarity_score": 0.3044848907262083
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2612",
+        "similarity_score": 0.3044713132481648
+    },
+    {
+        "stock1": "6695",
+        "stock2": "2637",
+        "similarity_score": 0.30433532783366546
+    },
+    {
+        "stock1": "2377",
+        "stock2": "2606",
+        "similarity_score": 0.3041664132424029
+    },
+    {
+        "stock1": "2464",
+        "stock2": "6806",
+        "similarity_score": 0.3040655764958095
+    },
+    {
+        "stock1": "3450",
+        "stock2": "8064",
+        "similarity_score": 0.30400217765461235
+    },
+    {
+        "stock1": "3515",
+        "stock2": "5443",
+        "similarity_score": 0.30393382957357634
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6640",
+        "similarity_score": 0.3039278666769223
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6442",
+        "similarity_score": 0.3039278095180407
+    },
+    {
+        "stock1": "6530",
+        "stock2": "6462",
+        "similarity_score": 0.30392627413976603
+    },
+    {
+        "stock1": "3338",
+        "stock2": "6442",
+        "similarity_score": 0.30381159132398283
+    },
+    {
+        "stock1": "1727",
+        "stock2": "8104",
+        "similarity_score": 0.303780164291029
+    },
+    {
+        "stock1": "3363",
+        "stock2": "3073",
+        "similarity_score": 0.3037471063213934
+    },
+    {
+        "stock1": "6530",
+        "stock2": "3580",
+        "similarity_score": 0.3036922510252595
+    },
+    {
+        "stock1": "3017",
+        "stock2": "4908",
+        "similarity_score": 0.3035573643808218
+    },
+    {
+        "stock1": "2376",
+        "stock2": "2606",
+        "similarity_score": 0.3031701485107522
+    },
+    {
+        "stock1": "6640",
+        "stock2": "5608",
+        "similarity_score": 0.30311114123221927
+    },
+    {
+        "stock1": "3163",
+        "stock2": "6243",
+        "similarity_score": 0.30309116982056516
+    },
+    {
+        "stock1": "3324",
+        "stock2": "5608",
+        "similarity_score": 0.3030884309223891
+    },
+    {
+        "stock1": "3231",
+        "stock2": "6442",
+        "similarity_score": 0.3030111481650466
+    },
+    {
+        "stock1": "2359",
+        "stock2": "3025",
+        "similarity_score": 0.30300601974942143
+    },
+    {
+        "stock1": "6188",
+        "stock2": "6462",
+        "similarity_score": 0.30298109903891435
+    },
+    {
+        "stock1": "3025",
+        "stock2": "3535",
+        "similarity_score": 0.30294169899129125
+    },
+    {
+        "stock1": "6869",
+        "stock2": "6806",
+        "similarity_score": 0.3027837360696847
+    },
+    {
+        "stock1": "6442",
+        "stock2": "3580",
+        "similarity_score": 0.30263279997637593
+    },
+    {
+        "stock1": "3163",
+        "stock2": "2609",
+        "similarity_score": 0.3026221640914722
+    },
+    {
+        "stock1": "2465",
+        "stock2": "5392",
+        "similarity_score": 0.3025411857347369
+    },
+    {
+        "stock1": "3515",
+        "stock2": "2467",
+        "similarity_score": 0.30251705352728453
+    },
+    {
+        "stock1": "6684",
+        "stock2": "2605",
+        "similarity_score": 0.3024433887770356
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2609",
+        "similarity_score": 0.3023999303471973
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3163",
+        "similarity_score": 0.30237580534720854
+    },
+    {
+        "stock1": "3515",
+        "stock2": "3363",
+        "similarity_score": 0.302240812054293
+    },
+    {
+        "stock1": "1727",
+        "stock2": "2376",
+        "similarity_score": 0.3022246601779371
+    },
+    {
+        "stock1": "3580",
+        "stock2": "6869",
+        "similarity_score": 0.30219324678977594
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6442",
+        "similarity_score": 0.30218881101221196
+    },
+    {
+        "stock1": "4755",
+        "stock2": "3163",
+        "similarity_score": 0.302119646215967
+    },
+    {
+        "stock1": "6684",
+        "stock2": "2606",
+        "similarity_score": 0.301961089790106
+    },
+    {
+        "stock1": "6640",
+        "stock2": "2612",
+        "similarity_score": 0.30190828676774645
+    },
+    {
+        "stock1": "3017",
+        "stock2": "2349",
+        "similarity_score": 0.3018084453130362
+    },
+    {
+        "stock1": "3580",
+        "stock2": "6684",
+        "similarity_score": 0.3017699405761994
+    },
+    {
+        "stock1": "6188",
+        "stock2": "6806",
+        "similarity_score": 0.3015077780484208
+    },
+    {
+        "stock1": "3231",
+        "stock2": "5608",
+        "similarity_score": 0.30150428795909207
+    },
+    {
+        "stock1": "3535",
+        "stock2": "6806",
+        "similarity_score": 0.301428743928309
+    },
+    {
+        "stock1": "5443",
+        "stock2": "6869",
+        "similarity_score": 0.3013818383879101
+    },
+    {
+        "stock1": "6188",
+        "stock2": "2606",
+        "similarity_score": 0.30136074987359973
+    },
+    {
+        "stock1": "2377",
+        "stock2": "8071",
+        "similarity_score": 0.30135877237495295
+    },
+    {
+        "stock1": "3025",
+        "stock2": "6640",
+        "similarity_score": 0.3013069126437608
+    },
+    {
+        "stock1": "6230",
+        "stock2": "2465",
+        "similarity_score": 0.3013047524250602
+    },
+    {
+        "stock1": "3231",
+        "stock2": "3663",
+        "similarity_score": 0.3012444231905207
+    },
+    {
+        "stock1": "5392",
+        "stock2": "4908",
+        "similarity_score": 0.30123036559525834
+    },
+    {
+        "stock1": "2425",
+        "stock2": "6462",
+        "similarity_score": 0.30120980796698466
+    },
+    {
+        "stock1": "2464",
+        "stock2": "8054",
+        "similarity_score": 0.3011990890188722
+    },
+    {
+        "stock1": "6188",
+        "stock2": "6640",
+        "similarity_score": 0.30114803076946317
+    },
+    {
+        "stock1": "6530",
+        "stock2": "6695",
+        "similarity_score": 0.30101894078565805
+    },
+    {
+        "stock1": "3163",
+        "stock2": "8064",
+        "similarity_score": 0.3009499105454189
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6869",
+        "similarity_score": 0.3008159079023519
+    },
+    {
+        "stock1": "1727",
+        "stock2": "3450",
+        "similarity_score": 0.30043898708061745
+    },
+    {
+        "stock1": "6462",
+        "stock2": "8440",
+        "similarity_score": 0.3003935119424653
+    },
+    {
+        "stock1": "3450",
+        "stock2": "6243",
+        "similarity_score": 0.30007263904649817
+    },
+    {
+        "stock1": "8104",
+        "stock2": "2615",
+        "similarity_score": 0.30005305450065684
+    },
+    {
+        "stock1": "8234",
+        "stock2": "6462",
+        "similarity_score": 0.30000734740134405
+    }
+]
